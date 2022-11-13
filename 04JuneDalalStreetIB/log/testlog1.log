@@ -1,0 +1,24 @@
+2022-10-29 10:15:13,236 [main] INFO Dalal Street Framework - Framework execution started
+2022-10-29 10:16:06,125 [main] INFO Dalal Street Framework - Browser Launched
+2022-10-29 10:16:10,196 [main] INFO Dalal Street Framework - Opened Url, maximized browser and applied implicit wait
+2022-10-29 10:17:23,852 [main] INFO Dalal Street Framework - Framework execution started
+2022-10-29 10:17:27,792 [main] INFO Dalal Street Framework - Browser Launched
+2022-10-29 10:17:34,972 [main] INFO Dalal Street Framework - Opened Url, maximized browser and applied implicit wait
+2022-10-29 10:17:35,433 [main] INFO Dalal Street Framework - Testcase execution started
+2022-10-29 10:17:38,772 [main] INFO Dalal Street Framework - Selected Company option
+2022-10-29 10:17:42,097 [main] INFO Dalal Street Framework - Clicked on buy button
+2022-10-29 10:17:44,149 [main] INFO Dalal Street Framework - Testcase execution passed
+2022-10-29 10:17:44,601 [main] INFO Dalal Street Framework - Browser closed
+2022-10-29 10:17:47,571 [main] INFO Dalal Street Framework - Browser Launched
+2022-10-29 10:17:53,371 [main] INFO Dalal Street Framework - Opened Url, maximized browser and applied implicit wait
+2022-10-29 10:17:53,914 [main] INFO Dalal Street Framework - Testcase execution started
+2022-10-29 10:18:27,073 [main] INFO Dalal Street Framework - Testcase execution failed
+2022-10-29 10:18:27,664 [main] INFO Dalal Street Framework - Browser closed
+2022-10-29 10:18:27,665 [main] INFO Dalal Street Framework - Framework execution finished
+2022-10-29 10:18:27,671 [main] INFO Dalal Street Framework - Framework execution started
+2022-10-29 10:18:30,620 [main] INFO Dalal Street Framework - Browser Launched
+2022-10-29 10:18:34,230 [main] INFO Dalal Street Framework - Opened Url, maximized browser and applied implicit wait
+2022-10-29 10:18:34,700 [main] INFO Dalal Street Framework - Testcase execution started
+2022-10-29 10:18:43,264 [main] INFO Dalal Street Framework - Testcase execution passed
+2022-10-29 10:18:43,708 [main] INFO Dalal Street Framework - Browser closed
+2022-10-29 10:18:43,709 [main] INFO Dalal Street Framework - Framework execution finished

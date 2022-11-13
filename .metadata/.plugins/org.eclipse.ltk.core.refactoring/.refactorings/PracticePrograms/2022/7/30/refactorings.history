@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;practiceProgramming.Operators&apos; to &apos;OperatorUnary&apos;&#x0D;&#x0A;- Original project: &apos;PracticePrograms&apos;&#x0D;&#x0A;- Original element: &apos;practiceProgramming.Operators&apos;&#x0D;&#x0A;- Renamed element: &apos;practiceProgramming.OperatorUnary&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Operators&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;practiceProgramming{Operators.java[Operators" matchStrategy="1" name="OperatorUnary" qualified="false" references="true" similarDeclarations="false" stamp="1658238157365" textual="false" version="1.0"/>
+</session>

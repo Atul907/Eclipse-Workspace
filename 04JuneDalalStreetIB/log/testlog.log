@@ -1,0 +1,24 @@
+2022-10-29 10:15:13,236 - Dalal Street Framework -INFO - Framework execution started
+2022-10-29 10:16:06,125 - Dalal Street Framework -INFO - Browser Launched
+2022-10-29 10:16:10,196 - Dalal Street Framework -INFO - Opened Url, maximized browser and applied implicit wait
+2022-10-29 10:17:23,852 - Dalal Street Framework -INFO - Framework execution started
+2022-10-29 10:17:27,792 - Dalal Street Framework -INFO - Browser Launched
+2022-10-29 10:17:34,972 - Dalal Street Framework -INFO - Opened Url, maximized browser and applied implicit wait
+2022-10-29 10:17:35,433 - Dalal Street Framework -INFO - Testcase execution started
+2022-10-29 10:17:38,772 - Dalal Street Framework -INFO - Selected Company option
+2022-10-29 10:17:42,097 - Dalal Street Framework -INFO - Clicked on buy button
+2022-10-29 10:17:44,149 - Dalal Street Framework -INFO - Testcase execution passed
+2022-10-29 10:17:44,601 - Dalal Street Framework -INFO - Browser closed
+2022-10-29 10:17:47,571 - Dalal Street Framework -INFO - Browser Launched
+2022-10-29 10:17:53,371 - Dalal Street Framework -INFO - Opened Url, maximized browser and applied implicit wait
+2022-10-29 10:17:53,914 - Dalal Street Framework -INFO - Testcase execution started
+2022-10-29 10:18:27,073 - Dalal Street Framework -INFO - Testcase execution failed
+2022-10-29 10:18:27,664 - Dalal Street Framework -INFO - Browser closed
+2022-10-29 10:18:27,665 - Dalal Street Framework -INFO - Framework execution finished
+2022-10-29 10:18:27,671 - Dalal Street Framework -INFO - Framework execution started
+2022-10-29 10:18:30,620 - Dalal Street Framework -INFO - Browser Launched
+2022-10-29 10:18:34,230 - Dalal Street Framework -INFO - Opened Url, maximized browser and applied implicit wait
+2022-10-29 10:18:34,700 - Dalal Street Framework -INFO - Testcase execution started
+2022-10-29 10:18:43,264 - Dalal Street Framework -INFO - Testcase execution passed
+2022-10-29 10:18:43,708 - Dalal Street Framework -INFO - Browser closed
+2022-10-29 10:18:43,709 - Dalal Street Framework -INFO - Framework execution finished

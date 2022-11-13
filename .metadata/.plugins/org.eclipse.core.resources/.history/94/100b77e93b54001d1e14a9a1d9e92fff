@@ -1,0 +1,25 @@
+package chrome;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class Testing {
+
+	public static void main(String[] args) throws InterruptedException {
+		
+		System.setProperty("webdriver.chrome.driver", "E:\\E Drive\\software testing\\Selenium server\\chromedriver.exe");
+		
+		WebDriver driver = new ChromeDriver();
+		
+		driver.manage().window().maximize();
+		
+		driver.get("https://practicetestautomation.com/practice-test-login/");
+		
+		//WebDriverWait atul = new WebDriverWait(driver, null, null);
+		
+		Thread.sleep(3000);
+		
+		
+		
+	}
+}

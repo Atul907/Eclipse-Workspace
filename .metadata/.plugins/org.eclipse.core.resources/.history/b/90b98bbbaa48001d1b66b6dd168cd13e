@@ -1,0 +1,70 @@
+package orangeHRM;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+
+public class HomePage {
+
+	@FindBy(xpath ="//img[@alt='profile picture']")
+	private WebElement pic;
+	
+	@FindBy(linkText = "Reports")
+	private WebElement reports;
+	
+	@FindBy(xpath = "(//*[@class='oxd-text oxd-text--span oxd-main-menu-item--name'])[6]")
+	private WebElement info;
+	
+	@FindBy(xpath = "//*[@class='oxd-userdropdown-name']")
+	private WebElement drop;
+	
+	@FindBy (xpath = "(//*[@class='oxd-userdropdown-link'])[4]")
+	private WebElement logt;
+	
+	WebDriver driver;
+	
+	
+	public HomePage (WebDriver driver) 
+	{
+		this.driver = driver;
+		PageFactory.initElements(driver, this);
+	}
+	
+	public void profileVerification () 
+	{
+		boolean res = pic.isDisplayed();
+		
+		if (res = true) 
+		{
+			System.out.println(res + "dashboard is visible");
+		}
+		else
+		{
+			System.out.println(res + "dashboard is not visible");
+		}		
+	}
+	
+	public void dropdown () 
+	{
+		drop.click();
+	}
+	
+	public void logut() 
+	{
+		logt.click();
+	}
+	
+	public void report() 
+	{
+		reports.click();
+	}
+	
+	public void myInfo() 
+	{
+		info.click();
+	}
+	
+	
+	
+}

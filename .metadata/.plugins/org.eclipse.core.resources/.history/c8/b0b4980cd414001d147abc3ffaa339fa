@@ -1,0 +1,26 @@
+package impPatterns;
+
+public class HollowShape {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		int r,c;
+		
+		for(r=1;r<=7;r++) {
+			
+			for(c=1;c<=7;c++) {
+				
+				if(r>=2 && r<=6 && c>=2 && c<=6) {
+					System.out.print(" ");
+				}
+				else {
+				System.out.print("*");
+			}
+			}	
+			System.out.println();
+		}
+		
+	}
+
+}

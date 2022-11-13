@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-19T18:22:57 IST" name="Default suite" finished-at="2022-10-19T18:23:04 IST" duration-ms="7347">
+    <groups>
+    </groups>
+    <test started-at="2022-10-19T18:22:57 IST" name="Default test" finished-at="2022-10-19T18:23:04 IST" duration-ms="7347">
+      <class name="actiTime.ActiTimeTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:actiTime.ActiTimeTest@27ce24aa]" started-at="2022-10-19T18:22:57 IST" name="openBrowser" finished-at="2022-10-19T18:23:01 IST" duration-ms="4127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:actiTime.ActiTimeTest@27ce24aa]" started-at="2022-10-19T18:23:01 IST" name="login" finished-at="2022-10-19T18:23:02 IST" duration-ms="572" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="logoVerify()[pri:0, instance:actiTime.ActiTimeTest@27ce24aa]" started-at="2022-10-19T18:23:02 IST" name="logoVerify" finished-at="2022-10-19T18:23:03 IST" duration-ms="1561" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoVerify -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:actiTime.ActiTimeTest@27ce24aa]" started-at="2022-10-19T18:23:03 IST" name="logout" finished-at="2022-10-19T18:23:04 IST" duration-ms="377" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:actiTime.ActiTimeTest@27ce24aa]" started-at="2022-10-19T18:23:04 IST" name="closeBrowser" finished-at="2022-10-19T18:23:04 IST" duration-ms="597" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- actiTime.ActiTimeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

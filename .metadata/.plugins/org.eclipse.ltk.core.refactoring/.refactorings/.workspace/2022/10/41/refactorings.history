@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Selenium&apos; to &apos;PomWOPageFactory&apos;" description="Rename resource &apos;Selenium&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Selenium" name="PomWOPageFactory" stamp="1664713762034" updateReferences="true"/>
+</session>

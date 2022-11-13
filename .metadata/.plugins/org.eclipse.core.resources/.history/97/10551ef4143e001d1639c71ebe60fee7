@@ -1,0 +1,28 @@
+package excelData;
+
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+
+import org.apache.poi.EncryptedDocumentException;
+import org.apache.poi.ss.usermodel.CellType;
+import org.apache.poi.ss.usermodel.WorkbookFactory;
+
+public class ExcelReadWrite {
+
+	public static void main(String[] args) throws EncryptedDocumentException, IOException , FileNotFoundException {
+
+		String path = "E:\\E Drive\\software testing\\Sheet\\Book1.xlsx";
+		
+		FileInputStream file = new FileInputStream(path);
+		
+		String val = WorkbookFactory.create(file).getSheet("Sheet1").getRow(3).getCell(3).getStringCellValue();
+		
+		CellType val1 = WorkbookFactory.create(file).getSheet("Sheet1").getRow(2).getCell(2).getCellType();
+		
+		System.out.println(val);
+		System.out.println(val1);
+		
+	}
+
+}

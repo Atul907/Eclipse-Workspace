@@ -1,0 +1,89 @@
+package chrome;
+
+import java.util.Set;
+//import java.util.concurrent.TimeUnit;
+import java.util.concurrent.TimeUnit;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.interactions.Actions;
+
+public class FlipkartScript {
+
+	@SuppressWarnings("deprecation")
+	public static void main(String[] args) throws InterruptedException {
+		
+			
+			System.setProperty("webdriver.chrome.driver", "E:\\E Drive\\software testing\\Selenium server\\chromedriver.exe ");
+			
+			WebDriver driver= new ChromeDriver();
+			
+			driver.manage().window().maximize();
+			
+			driver.manage().deleteAllCookies();
+			
+			driver.get("https://www.flipkart.com/");
+			driver.manage().window().maximize();
+			
+			//String parent = driver.getWindowHandle();
+			
+			driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+			
+			//Thread.sleep(1000);
+			
+			driver.findElement(By.xpath("//*[@class='_2IX_2- VJZDxU']")).click();
+			
+			Set<String> child = driver.getWindowHandles();
+			
+			int a = child.size();
+			
+			String [] id = new String [a];
+					int i = 0;
+				
+					for (String single:child) {
+						id [i] = single;
+						i++;		
+			}	
+			driver.switchTo().window(id[0]);
+			driver.manage().window().maximize();
+			System.out.println(driver.getTitle());
+			
+			WebElement un = driver.findElement(By.xpath("//*[@class='_2IX_2- VJZDxU']"));
+			un.sendKeys("9561007540");
+			
+			WebElement pass = driver.findElement(By.xpath("//*[@class='_2IX_2- _3mctLh VJZDxU']"));
+			pass.sendKeys("atulm173");
+			
+			driver.findElement(By.xpath("(//*[text()='Login'])[3]")).click();
+			
+			Thread.sleep(4000);
+		
+		WebElement act = driver.findElement(By.xpath("(//div[@class='_28p97w'])[1]"));
+
+		//Creating object of an Actions class
+		Actions action = new Actions(driver);
+
+		//Performing the mouse hover action on the target element.
+		action.moveToElement(act).perform();
+		
+		Thread.sleep(2000);
+		
+		// Locating the element from Sub Menu
+		WebElement lgt = driver.findElement(By.xpath("//div[normalize-space()='Logout']"));
+
+		//To mouse hover on sub menu
+		action.moveToElement(lgt);
+
+		//build()- used to compile all the actions into a single step 
+		action.click().build().perform();
+
+			driver.quit();
+			}
+
+		
+		
+	}
+
+

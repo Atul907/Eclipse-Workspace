@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;chrome.SwagLabs&apos; to &apos;AnotherWayOfSendkeysJS&apos;&#x0D;&#x0A;- Original project: &apos;Automations&apos;&#x0D;&#x0A;- Original element: &apos;chrome.SwagLabs&apos;&#x0D;&#x0A;- Renamed element: &apos;chrome.AnotherWayOfSendkeysJS&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;SwagLabs&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;chrome{SwagLabs.java[SwagLabs" matchStrategy="1" name="AnotherWayOfSendkeysJS" qualified="false" references="true" similarDeclarations="false" stamp="1665991538903" textual="false" version="1.0"/>
+</session>

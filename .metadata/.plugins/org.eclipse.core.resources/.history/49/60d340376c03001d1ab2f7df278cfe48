@@ -1,0 +1,38 @@
+package practiceProgramming;
+
+public class Constructor2 {
+
+	int a;
+	int b;
+	
+	Constructor2() {
+		
+		int a= 5;
+		int b= 10;		
+		
+		System.out.println(a+b);
+		
+	}
+	
+	Constructor2 (String s){
+		
+		
+		System.out.println("Testing" + s);
+		
+	}
+	
+	Constructor2 (int a ,int b){
+		
+		System.out.println(a+b);
+	}
+	
+	
+	public static void main(String[] args) {
+		
+		
+		new Constructor2();
+		new Constructor2("Done");
+		new Constructor2(10, 20);
+	}
+	
+}

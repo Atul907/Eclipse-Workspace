@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-19T19:13:29 IST" name="Surefire suite" finished-at="2022-10-19T19:13:40 IST" duration-ms="10381">
+    <groups>
+    </groups>
+    <test started-at="2022-10-19T19:13:29 IST" name="Surefire test" finished-at="2022-10-19T19:13:40 IST" duration-ms="10381">
+      <class name="actiTime.ActiTimeTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:actiTime.ActiTimeTest@2b546384]" started-at="2022-10-19T19:13:29 IST" name="openBrowser" finished-at="2022-10-19T19:13:36 IST" duration-ms="6716" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:actiTime.ActiTimeTest@2b546384]" started-at="2022-10-19T19:13:36 IST" name="login" finished-at="2022-10-19T19:13:37 IST" duration-ms="645" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="logoVerify()[pri:0, instance:actiTime.ActiTimeTest@2b546384]" started-at="2022-10-19T19:13:37 IST" name="logoVerify" finished-at="2022-10-19T19:13:39 IST" duration-ms="1752" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoVerify -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:actiTime.ActiTimeTest@2b546384]" started-at="2022-10-19T19:13:39 IST" name="logout" finished-at="2022-10-19T19:13:39 IST" duration-ms="437" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:actiTime.ActiTimeTest@2b546384]" started-at="2022-10-19T19:13:39 IST" name="closeBrowser" finished-at="2022-10-19T19:13:40 IST" duration-ms="693" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- actiTime.ActiTimeTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

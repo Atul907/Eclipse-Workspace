@@ -1,0 +1,27 @@
+package impPatterns;
+
+public class Triangle {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		 int a,b,c,d;
+		 
+		 for (a=1; a<=5; a++) 
+		 {
+			 for (b=4; b>=a; b--) 
+			 {
+				 System.out.print(" ");
+			 }
+		 for (c=1; c<=a; c++)
+		 {
+			 	System.out.print("*");
+			 for (d=2; d<=a; d++ ) 
+			 {
+				 System.out.print("*");
+			 }
+			 	System.out.println();
+		 }
+		 }
+	}
+}

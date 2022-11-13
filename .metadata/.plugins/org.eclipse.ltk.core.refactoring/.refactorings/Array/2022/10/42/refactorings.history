@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;arrayProgram.Duplicate&apos; to &apos;FrequencyOfArray&apos;&#x0D;&#x0A;- Original project: &apos;Array&apos;&#x0D;&#x0A;- Original element: &apos;arrayProgram.Duplicate&apos;&#x0D;&#x0A;- Renamed element: &apos;arrayProgram.FrequencyOfArray&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Duplicate&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;arrayProgram{Duplicate.java[Duplicate" matchStrategy="1" name="FrequencyOfArray" qualified="false" references="true" similarDeclarations="false" stamp="1665484659377" textual="false" version="1.0"/>
+</session>

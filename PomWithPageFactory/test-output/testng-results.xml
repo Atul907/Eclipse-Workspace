@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-10T12:32:32 IST" name="Suite" finished-at="2022-10-10T12:33:04 IST" duration-ms="32556">
+    <groups>
+    </groups>
+    <test started-at="2022-10-10T12:32:32 IST" name="Test" finished-at="2022-10-10T12:33:04 IST" duration-ms="32556">
+      <class name="pomTest.HRMTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:pomTest.HRMTest@10e92f8f]" started-at="2022-10-10T12:32:32 IST" name="openBrowser" finished-at="2022-10-10T12:32:49 IST" duration-ms="17051" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="loggIn()[pri:0, instance:pomTest.HRMTest@10e92f8f]" started-at="2022-10-10T12:32:49 IST" name="loggIn" finished-at="2022-10-10T12:32:50 IST" duration-ms="1358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loggIn -->
+        <test-method signature="verifyProfile()[pri:1, instance:pomTest.HRMTest@10e92f8f]" started-at="2022-10-10T12:32:50 IST" name="verifyProfile" finished-at="2022-10-10T12:32:54 IST" duration-ms="3426" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProfile -->
+        <test-method signature="seeReports()[pri:2, instance:pomTest.HRMTest@10e92f8f]" started-at="2022-10-10T12:32:54 IST" name="seeReports" finished-at="2022-10-10T12:33:00 IST" duration-ms="6058" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seeReports -->
+        <test-method signature="information()[pri:3, instance:pomTest.HRMTest@10e92f8f]" started-at="2022-10-10T12:33:00 IST" name="information" finished-at="2022-10-10T12:33:01 IST" duration-ms="1093" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- information -->
+        <test-method is-config="true" signature="loggOut()[pri:0, instance:pomTest.HRMTest@10e92f8f]" started-at="2022-10-10T12:33:01 IST" name="loggOut" finished-at="2022-10-10T12:33:04 IST" duration-ms="2856" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loggOut -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:pomTest.HRMTest@10e92f8f]" started-at="2022-10-10T12:33:04 IST" name="closeBrowser" finished-at="2022-10-10T12:33:04 IST" duration-ms="620" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- pomTest.HRMTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
