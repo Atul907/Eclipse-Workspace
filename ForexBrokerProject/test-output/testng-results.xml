@@ -2,27 +2,35 @@
 <testng-results ignored="0" total="1" passed="0" failed="0" skipped="1">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-11-14T14:50:28 IST" name="Default suite" finished-at="2022-11-14T14:50:28 IST" duration-ms="139">
+  <suite started-at="2022-11-14T17:21:58 IST" name="Default suite" finished-at="2022-11-14T17:21:58 IST" duration-ms="168">
     <groups>
     </groups>
-    <test started-at="2022-11-14T14:50:28 IST" name="Default test" finished-at="2022-11-14T14:50:28 IST" duration-ms="139">
+    <test started-at="2022-11-14T17:21:58 IST" name="Default test" finished-at="2022-11-14T17:21:58 IST" duration-ms="168">
       <class name="com.testLayer.LoginpageTest">
-        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.testLayer.LoginpageTest@478190fc]" started-at="2022-11-14T14:50:28 IST" name="setUp" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1668417628860" status="FAIL">
-          <exception class="org.testng.TestNGException">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.testLayer.LoginpageTest@7e07db1f]" started-at="2022-11-14T17:21:58 IST" name="setUp" finished-at="2022-11-14T17:21:58 IST" duration-ms="80" status="FAIL">
+          <exception class="java.lang.IllegalStateException">
             <message>
-              <![CDATA[
-Can inject only one of <ITestContext, XmlTest> into a @BeforeClass annotated setUp.
-For more information on native dependency injection please refer to https://testng.org/doc/documentation-main.html#native-dependency-injection]]>
+              <![CDATA[The driver executable must exist: E:\E Drive\software testing\Selenium server\chromedriver.exe]]>
             </message>
             <full-stacktrace>
-              <![CDATA[org.testng.TestNGException: 
-Can inject only one of <ITestContext, XmlTest> into a @BeforeClass annotated setUp.
-For more information on native dependency injection please refer to https://testng.org/doc/documentation-main.html#native-dependency-injection
-at org.testng.internal.Parameters.checkParameterTypes(Parameters.java:439)
-at org.testng.internal.Parameters.createParametersForMethod(Parameters.java:353)
-at org.testng.internal.Parameters.createParameters(Parameters.java:708)
-at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:168)
-at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:302)
+              <![CDATA[java.lang.IllegalStateException: The driver executable must exist: E:\E Drive\software testing\Selenium server\chromedriver.exe
+at org.openqa.selenium.internal.Require$FileStateChecker.isFile(Require.java:342)
+at org.openqa.selenium.remote.service.DriverService.checkExecutable(DriverService.java:147)
+at org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:142)
+at org.openqa.selenium.chrome.ChromeDriverService.access$000(ChromeDriverService.java:39)
+at org.openqa.selenium.chrome.ChromeDriverService$Builder.findDefaultExecutable(ChromeDriverService.java:233)
+at org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:437)
+at org.openqa.selenium.chrome.ChromeDriverService.createDefaultService(ChromeDriverService.java:128)
+at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:49)
+at com.testBase.TestBase.setUp(TestBase.java:49)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:62)
+at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:385)
+at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:321)
 at org.testng.internal.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:176)
 at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:122)
 at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
@@ -43,26 +51,34 @@ at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
 at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
 ]]>
             </full-stacktrace>
-          </exception> <!-- org.testng.TestNGException -->
+          </exception> <!-- java.lang.IllegalStateException -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verifyloginTest()[pri:0, instance:com.testLayer.LoginpageTest@478190fc]" started-at="2022-11-14T14:50:28 IST" name="verifyloginTest" finished-at="2022-11-14T14:50:28 IST" duration-ms="1" status="SKIP">
-          <exception class="org.testng.TestNGException">
+        <test-method signature="verifyloginTest()[pri:0, instance:com.testLayer.LoginpageTest@7e07db1f]" started-at="2022-11-14T17:21:58 IST" name="verifyloginTest" finished-at="2022-11-14T17:21:58 IST" duration-ms="0" status="SKIP">
+          <exception class="java.lang.IllegalStateException">
             <message>
-              <![CDATA[
-Can inject only one of <ITestContext, XmlTest> into a @BeforeClass annotated setUp.
-For more information on native dependency injection please refer to https://testng.org/doc/documentation-main.html#native-dependency-injection]]>
+              <![CDATA[The driver executable must exist: E:\E Drive\software testing\Selenium server\chromedriver.exe]]>
             </message>
             <full-stacktrace>
-              <![CDATA[org.testng.TestNGException: 
-Can inject only one of <ITestContext, XmlTest> into a @BeforeClass annotated setUp.
-For more information on native dependency injection please refer to https://testng.org/doc/documentation-main.html#native-dependency-injection
-at org.testng.internal.Parameters.checkParameterTypes(Parameters.java:439)
-at org.testng.internal.Parameters.createParametersForMethod(Parameters.java:353)
-at org.testng.internal.Parameters.createParameters(Parameters.java:708)
-at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:168)
-at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:302)
+              <![CDATA[java.lang.IllegalStateException: The driver executable must exist: E:\E Drive\software testing\Selenium server\chromedriver.exe
+at org.openqa.selenium.internal.Require$FileStateChecker.isFile(Require.java:342)
+at org.openqa.selenium.remote.service.DriverService.checkExecutable(DriverService.java:147)
+at org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:142)
+at org.openqa.selenium.chrome.ChromeDriverService.access$000(ChromeDriverService.java:39)
+at org.openqa.selenium.chrome.ChromeDriverService$Builder.findDefaultExecutable(ChromeDriverService.java:233)
+at org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:437)
+at org.openqa.selenium.chrome.ChromeDriverService.createDefaultService(ChromeDriverService.java:128)
+at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:49)
+at com.testBase.TestBase.setUp(TestBase.java:49)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:62)
+at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:385)
+at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:321)
 at org.testng.internal.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:176)
 at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:122)
 at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
@@ -83,11 +99,11 @@ at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
 at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
 ]]>
             </full-stacktrace>
-          </exception> <!-- org.testng.TestNGException -->
+          </exception> <!-- java.lang.IllegalStateException -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyloginTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.testLayer.LoginpageTest@478190fc]" started-at="2022-11-14T14:50:28 IST" name="tearDown" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1668417628937" status="SKIP">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.testLayer.LoginpageTest@7e07db1f]" started-at="2022-11-14T17:21:58 IST" name="tearDown" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1668426718505" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

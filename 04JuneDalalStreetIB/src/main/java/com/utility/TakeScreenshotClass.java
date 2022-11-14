@@ -5,6 +5,7 @@ import java.io.IOException;
 
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
+//import org.openqa.selenium.WebElement;
 import org.openqa.selenium.io.FileHandler;
 import org.openqa.selenium.support.PageFactory;
 
@@ -26,6 +27,7 @@ public class TakeScreenshotClass extends TestBase {
 	
 	
 	static String path = "C:\\Users\\232338\\eclipse-workspace\\04JuneDalalStreetIB\\screenshots\\";
+	
 	public static void takeScreenShot(String filename)
 	{
 		try 

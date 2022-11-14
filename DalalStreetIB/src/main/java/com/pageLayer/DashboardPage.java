@@ -116,7 +116,7 @@ public class DashboardPage extends TestBase
 	}
 	public void elementLogoValue() 
 	{
-		TakeScreenshotClass.input=logo;
+		TakeScreenshotClass.element=logo;
 	}
 	public void clickOnLogo() 
 	{
@@ -213,7 +213,7 @@ public class DashboardPage extends TestBase
 	}
 	public void inputProfitLossGraph()
 	{
-		TakeScreenshotClass.input=profit_loss_graph;
+		TakeScreenshotClass.element=profit_loss_graph;
 	}
 	public void clickProfitBtn()
 	{

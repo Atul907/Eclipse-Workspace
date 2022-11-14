@@ -289,6 +289,6 @@ public class PlaceOrderPage extends TestBase
 	}
 	public void inputGraphValue() 
 	{
-		TakeScreenshotClass.input=graph;
+		TakeScreenshotClass.element=graph;
 	}
 }

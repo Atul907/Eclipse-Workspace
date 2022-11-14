@@ -5,20 +5,20 @@ import java.time.Duration;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.edge.EdgeDriver;
-import org.openqa.selenium.firefox.FirefoxDriver;
+//import org.openqa.selenium.edge.EdgeDriver;
+//import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 
 import com.pageLayer.Loginpage;
 
-import io.github.bonigarcia.wdm.WebDriverManager;
+//import io.github.bonigarcia.wdm.WebDriverManager;
 import utility.PropertiesFileReader;
 
 public class TestBase {
 
 	public static WebDriver driver;
-	String br = "Chrome";
+//	String br = "Chrome";
 	
 //	public void setUp(String br) throws IOException
 //	{
@@ -43,7 +43,7 @@ public class TestBase {
 //		}
 //		System.out.println("Browser Launched");
 	@BeforeClass
-	public void setUp(String br) throws IOException, InterruptedException
+	public void setUp () throws IOException, InterruptedException
 	{
 		System.setProperty("webdriver.chrome.driver", "E:\\E Drive\\software testing\\Selenium server\\chromedriver.exe");
 		driver = new ChromeDriver();
