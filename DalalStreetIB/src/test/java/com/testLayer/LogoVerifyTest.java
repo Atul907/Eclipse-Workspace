@@ -3,7 +3,7 @@ package com.testLayer;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 import com.testBase.TestBase;
-import com.utility.UtilClass;
+import com.utility.TakeScreenshotClass;
 
 public class LogoVerifyTest extends TestBase
 {
@@ -13,6 +13,6 @@ public class LogoVerifyTest extends TestBase
 		boolean actual_result = dashboard.logoTest();
 		Assert.assertTrue(actual_result);
 		dashboard.elementLogoValue();
-		UtilClass.takesElementScreenshot("logo","C:\\Eclips Workspace\\DalalStreetIB\\ScreenShots\\");
+		TakeScreenshotClass.takesElementScreenshot("logo","C:\\Eclips Workspace\\DalalStreetIB\\ScreenShots\\");
 	}
 }

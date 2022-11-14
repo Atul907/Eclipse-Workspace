@@ -5,7 +5,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 import com.testBase.TestBase;
-import com.utility.UtilClass;
+import com.utility.TakeScreenshotClass;
 
 public class RegisterPage extends TestBase
 {
@@ -62,16 +62,16 @@ public class RegisterPage extends TestBase
 	public void clickAgreeBtn()
 	{
 		//org.openqa.selenium.ElementClickInterceptedException
-		UtilClass.element=agree_btn;
-		UtilClass.javaScript();
+		TakeScreenshotClass.element=agree_btn;
+		TakeScreenshotClass.javaScript();
 		//agree_btn.click();
 	}
 	
 	public void clickStartBtn()
 	{
 		//org.openqa.selenium.ElementClickInterceptedException
-		UtilClass.element=start_btn;
-		UtilClass.javaScript();
+		TakeScreenshotClass.element=start_btn;
+		TakeScreenshotClass.javaScript();
 	}
 	
 }

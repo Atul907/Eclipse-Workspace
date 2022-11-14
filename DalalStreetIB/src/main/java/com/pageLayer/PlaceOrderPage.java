@@ -6,7 +6,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import com.testBase.TestBase;
-import com.utility.UtilClass;
+import com.utility.TakeScreenshotClass;
 
 public class PlaceOrderPage extends TestBase
 {
@@ -104,121 +104,121 @@ public class PlaceOrderPage extends TestBase
 	//-----Actions method--------
 	public void clickOnBuyBtn()
 	{
-		UtilClass.element=buy_btn;
-		UtilClass.javaScript();
+		TakeScreenshotClass.element=buy_btn;
+		TakeScreenshotClass.javaScript();
 	}
 	
 	public void clickOnSellBtn() 
 	{
-		UtilClass.element=sell_btn;
-		UtilClass.javaScript();
+		TakeScreenshotClass.element=sell_btn;
+		TakeScreenshotClass.javaScript();
 		sell_btn.click();
 	}
 	
 	public void clickOnBuyIntradayBtn()
 	{
-		UtilClass.element=buy_intraday_btn;
-		UtilClass.javaScript();
+		TakeScreenshotClass.element=buy_intraday_btn;
+		TakeScreenshotClass.javaScript();
 		
 	} 
 	
 	public void clickOnSellIntradayBtn()
 	{
-		UtilClass.element=sell_intraday_btn;
-		UtilClass.javaScript();
+		TakeScreenshotClass.element=sell_intraday_btn;
+		TakeScreenshotClass.javaScript();
 	} 
 	
 	public void clickOnBuyLongeTermBtn()
 	{
-		UtilClass.element=buy_longterm_btn;
-		UtilClass.javaScript();
+		TakeScreenshotClass.element=buy_longterm_btn;
+		TakeScreenshotClass.javaScript();
 	}
 	
 	public void clickOnSellLongeTermBtn()
 	{
-		UtilClass.element=sell_longterm_btn;
-		UtilClass.javaScript();
+		TakeScreenshotClass.element=sell_longterm_btn;
+		TakeScreenshotClass.javaScript();
 	}
 	
 	public void clickOnBuyMarketBtn()
 	{
-		UtilClass.element=buy_market_btn;
-		UtilClass.javaScript();
+		TakeScreenshotClass.element=buy_market_btn;
+		TakeScreenshotClass.javaScript();
 	}
 	
 	public void clickOnSellMarketBtn()
 	{
-		UtilClass.element=sell_market_btn;
-		UtilClass.javaScript();
+		TakeScreenshotClass.element=sell_market_btn;
+		TakeScreenshotClass.javaScript();
 	}
 	
 	public void clickOnBuyCustomLimitBtn()
 	{
-		UtilClass.element=buy_customLimit_btn;
-		UtilClass.javaScript();
+		TakeScreenshotClass.element=buy_customLimit_btn;
+		TakeScreenshotClass.javaScript();
 	}
 	
 	public void clickOnSellCustomLimitBtn()
 	{
-		UtilClass.element=sell_customLimit_btn;
-		UtilClass.javaScript();
+		TakeScreenshotClass.element=sell_customLimit_btn;
+		TakeScreenshotClass.javaScript();
 	}
 	
 	public void enterShareBuyQuantity()
 	{
 		//Integer.toString(buy_qty);
-		UtilClass.element=buy_input_quantity;
-		UtilClass.javaScript();
+		TakeScreenshotClass.element=buy_input_quantity;
+		TakeScreenshotClass.javaScript();
 		buy_input_quantity.sendKeys("5");
 	}
 	
 	public void enterShareSellQuantity()
 	{
 		//Integer.toString(sell_qty);
-		UtilClass.element=sell_input_quantity;
-		UtilClass.javaScript();
+		TakeScreenshotClass.element=sell_input_quantity;
+		TakeScreenshotClass.javaScript();
 		sell_input_quantity.sendKeys("1");
 	}
 	
 	public void checkBuyPrice()
 	{
-		UtilClass.element=buy_price;
-		UtilClass.javaScript();
+		TakeScreenshotClass.element=buy_price;
+		TakeScreenshotClass.javaScript();
 		System.out.println(buy_price.getText());
 	}
 	
 	public void checkSellPrice()
 	{
 
-		UtilClass.element=sell_price;
-		UtilClass.javaScript();
+		TakeScreenshotClass.element=sell_price;
+		TakeScreenshotClass.javaScript();
 		System.out.println(sell_price.getText());
 	}
 	
 	public void clickOnBuyOrderBtn()
 	{
-		UtilClass.element=buy_order_btn;
-		UtilClass.javaScript();
+		TakeScreenshotClass.element=buy_order_btn;
+		TakeScreenshotClass.javaScript();
 	}
 	
 	public void clickOnSellOrderBtn()
 	{
-		UtilClass.element=sell_order_btn;
-		UtilClass.javaScript();
+		TakeScreenshotClass.element=sell_order_btn;
+		TakeScreenshotClass.javaScript();
 	}
 	
 	public String getBuyStatusMsg()
 	{
-		UtilClass.element=buy_order_status;
-		UtilClass.javaScript();
+		TakeScreenshotClass.element=buy_order_status;
+		TakeScreenshotClass.javaScript();
 		String msg = buy_order_status.getText();
 		return msg;
 	}
 	
 	public String getSellStatusMsg()
 	{
-		UtilClass.element=sell_order_status;
-		UtilClass.javaScript();
+		TakeScreenshotClass.element=sell_order_status;
+		TakeScreenshotClass.javaScript();
 		String msg = sell_order_status.getText();
 		return msg;
 	}
@@ -289,6 +289,6 @@ public class PlaceOrderPage extends TestBase
 	}
 	public void inputGraphValue() 
 	{
-		UtilClass.input=graph;
+		TakeScreenshotClass.input=graph;
 	}
 }

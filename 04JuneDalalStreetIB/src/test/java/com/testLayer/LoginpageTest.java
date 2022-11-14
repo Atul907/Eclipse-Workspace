@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 
 import com.pageLayer.Loginpage;
 import com.testBase.TestBase;
-import com.utility.UtilClass;
+import com.utility.TakeScreenshotClass;
 
 public class LoginpageTest extends TestBase {
 
@@ -14,7 +14,7 @@ public class LoginpageTest extends TestBase {
 	public void verifyLoginTest() throws InterruptedException
 	{
 		Loginpage login = new Loginpage();
-		UtilClass util = new UtilClass();
+		TakeScreenshotClass util = new TakeScreenshotClass();
 		login.enterEmailAddress();
 		login.enterPassword();
 		login.clickOnLoginButton();

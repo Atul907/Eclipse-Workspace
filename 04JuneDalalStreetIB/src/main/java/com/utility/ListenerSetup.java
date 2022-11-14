@@ -21,7 +21,7 @@ public class ListenerSetup extends TestBase implements ITestListener {
 	@Override
 	public void onTestFailure(ITestResult result) {
 		logger.info("Testcase execution failed");
-		UtilClass.takeScreenShot(result.getName());
+		TakeScreenshotClass.takeScreenShot(result.getName());
 	}
 
 	@Override

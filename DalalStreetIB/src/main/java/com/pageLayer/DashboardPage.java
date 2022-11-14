@@ -8,7 +8,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 import com.testBase.TestBase;
-import com.utility.UtilClass;
+import com.utility.TakeScreenshotClass;
 
 public class DashboardPage extends TestBase
 {
@@ -116,7 +116,7 @@ public class DashboardPage extends TestBase
 	}
 	public void elementLogoValue() 
 	{
-		UtilClass.input=logo;
+		TakeScreenshotClass.input=logo;
 	}
 	public void clickOnLogo() 
 	{
@@ -136,8 +136,8 @@ public class DashboardPage extends TestBase
 	}
 	public void clickOnViewAll() 
 	{
-		UtilClass.element=viewAll;
-		UtilClass.javaScript();
+		TakeScreenshotClass.element=viewAll;
+		TakeScreenshotClass.javaScript();
 	}
 	public void profileGetText() 
 	{
@@ -155,8 +155,8 @@ public class DashboardPage extends TestBase
 	
 	public void logOut() 
 	{
-		UtilClass.element = profile;
-		UtilClass.javaScript();
+		TakeScreenshotClass.element = profile;
+		TakeScreenshotClass.javaScript();
 		power_off.click();
 	}
 	
@@ -209,11 +209,11 @@ public class DashboardPage extends TestBase
 	
 	public void elementProfitLossGraph()
 	{
-		UtilClass.element=profit_loss_graph;
+		TakeScreenshotClass.element=profit_loss_graph;
 	}
 	public void inputProfitLossGraph()
 	{
-		UtilClass.input=profit_loss_graph;
+		TakeScreenshotClass.input=profit_loss_graph;
 	}
 	public void clickProfitBtn()
 	{

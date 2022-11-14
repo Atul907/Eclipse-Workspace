@@ -5,7 +5,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 import com.testBase.TestBase;
-import com.utility.UtilClass;
+import com.utility.TakeScreenshotClass;
 
 public class LoginPage extends TestBase
 {
@@ -38,8 +38,8 @@ public class LoginPage extends TestBase
 	public void clickOnSignupBtn() 
 	{
 		//org.openqa.selenium.ElementClickInterceptedException
-		UtilClass.element=Signup_Now;
-		UtilClass.javaScript();
+		TakeScreenshotClass.element=Signup_Now;
+		TakeScreenshotClass.javaScript();
 	}
 	
 	public void enterEmail(String email) 

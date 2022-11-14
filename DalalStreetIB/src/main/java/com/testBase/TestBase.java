@@ -14,7 +14,7 @@ import com.pageLayer.PlaceOrderPage;
 import com.pageLayer.PortfolioPage;
 import com.pageLayer.RegisterPage;
 import com.pageLayer.TransactionPage;
-import com.utility.UtilClass;
+import com.utility.TakeScreenshotClass;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
@@ -24,7 +24,7 @@ public class TestBase
 	
 	//-------page object declaration------------
 	public LoginPage login;
-	public UtilClass util;
+	public TakeScreenshotClass util;
 	public TransactionPage transaction;
 	public RegisterPage register;
 	public PortfolioPage portfolio;
@@ -69,7 +69,7 @@ public class TestBase
 		//---------object  initialization--------
 		
 		    login = new LoginPage();
-		    util = new UtilClass();
+		    util = new TakeScreenshotClass();
 		    transaction = new TransactionPage();
 		    register = new RegisterPage();
 		    portfolio = new PortfolioPage();

@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 import com.pageLayer.LoginPage;
 import com.pageLayer.RegisterPage;
 import com.testBase.TestBase;
-import com.utility.UtilClass;
+import com.utility.TakeScreenshotClass;
 
 
 public class SignupTest extends TestBase
@@ -17,7 +17,7 @@ public class SignupTest extends TestBase
 	{
 		LoginPage login = new LoginPage();
 		RegisterPage register = new RegisterPage();
-		UtilClass util = new UtilClass();
+		TakeScreenshotClass util = new TakeScreenshotClass();
 		
 		login.clickOnSignupBtn();;
 		register.enterFirstName();

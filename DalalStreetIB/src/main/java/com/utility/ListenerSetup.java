@@ -22,7 +22,7 @@ public class ListenerSetup implements ITestListener {
 	public void onTestFailure(ITestResult result) 
 	{
 		System.out.println("Testcase execution failed");
-		UtilClass.takesScreenshot(result.getName(), "C:\\Eclips Workspace\\DalalStreetIB\\ScreenShots\\");
+		TakeScreenshotClass.takesScreenshot(result.getName(), "C:\\Eclips Workspace\\DalalStreetIB\\ScreenShots\\");
 	}
 
 	@Override

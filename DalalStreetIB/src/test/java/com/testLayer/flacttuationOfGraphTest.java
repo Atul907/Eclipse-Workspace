@@ -4,7 +4,7 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import com.testBase.TestBase;
-import com.utility.UtilClass;
+import com.utility.TakeScreenshotClass;
 
 public class flacttuationOfGraphTest extends TestBase
 {
@@ -21,19 +21,19 @@ public class flacttuationOfGraphTest extends TestBase
 		order.inputGraphValue();
 		Thread.sleep(2000);
 		Assert.assertTrue(order.checkDaysBtn());
-		UtilClass.takesElementScreenshot("logo","C:\\Eclips Workspace\\DalalStreetIB\\ScreenShots\\");
+		TakeScreenshotClass.takesElementScreenshot("logo","C:\\Eclips Workspace\\DalalStreetIB\\ScreenShots\\");
 		
 		order.clickOnMonthBtn();
 		order.inputGraphValue();
 		Thread.sleep(2000);
 		Assert.assertTrue(order.checkMonthBtn());
-		UtilClass.takesElementScreenshot("logo","C:\\Eclips Workspace\\DalalStreetIB\\ScreenShots\\");
+		TakeScreenshotClass.takesElementScreenshot("logo","C:\\Eclips Workspace\\DalalStreetIB\\ScreenShots\\");
 		
 		order.clickOnYearBtn();
 		order.inputGraphValue();
 		Thread.sleep(2000);
 		Assert.assertTrue(order.checkYearBtn());
-		UtilClass.takesElementScreenshot("logo","C:\\Eclips Workspace\\DalalStreetIB\\ScreenShots\\");
+		TakeScreenshotClass.takesElementScreenshot("logo","C:\\Eclips Workspace\\DalalStreetIB\\ScreenShots\\");
 
 	}
 }
