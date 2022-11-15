@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="D:\D Drive\Eclipse Workspace"/>
+			<item value="D:\D Drive\Eclipse Workspace\Testing123"/>
 			<item value="D:\D Drive\Eclipse Workspace\DalalStreetIB"/>
 			<item value="D:\D Drive\Eclipse Workspace\Parameterization"/>
 		</list>
@@ -27,14 +29,16 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="DalalStreet.version_01"/>
+			<item value="Pepperstone.ForexBrokerProject"/>
+			<item value="Project1.CompleteSelenium"/>
 		</list>
 		<list key="groupId">
-			<item value="DalalStreet"/>
+			<item value="Pepperstone"/>
+			<item value="Project1"/>
 		</list>
 		<list key="artifactId">
-			<item value="version-01"/>
-			<item value="version_01"/>
+			<item value="ForexBrokerProject"/>
+			<item value="CompleteSelenium"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

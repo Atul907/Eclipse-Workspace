@@ -3,13 +3,15 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="snapTest.Demo$demo">
+      <class name="actiTime.ActiTimeTest">
         <methods>
-          <include name="takeScreenshotTest"/>
-          <include name="setUp"/>
-          <include name="tearDown"/>
+          <include name="logoVerify"/>
+          <include name="openBrowser"/>
+          <include name="login"/>
+          <include name="closeBrowser"/>
+          <include name="logout"/>
         </methods>
-      </class> <!-- snapTest.Demo$demo -->
+      </class> <!-- actiTime.ActiTimeTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

@@ -3,13 +3,16 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.testLayer.GetTranscationData">
+      <class name="com.testLayer.LoginpageTest">
         <methods>
+          <include name="start"/>
+          <include name="test1"/>
           <include name="setUp"/>
+          <include name="verifyLoginTest"/>
           <include name="tearDown"/>
-          <include name="getData"/>
+          <include name="stop"/>
         </methods>
-      </class> <!-- com.testLayer.GetTranscationData -->
+      </class> <!-- com.testLayer.LoginpageTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

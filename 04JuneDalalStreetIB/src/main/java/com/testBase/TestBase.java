@@ -51,7 +51,7 @@ public class TestBase {
 		logger.info("Framework execution finished");
 	}
 	
-	@Parameters("browser")
+	@Parameters("Chrome")
 	@BeforeMethod
 	public void setUp(String br)
 	{

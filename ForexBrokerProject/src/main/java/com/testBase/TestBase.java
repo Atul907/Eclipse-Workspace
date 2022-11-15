@@ -5,52 +5,55 @@ import java.time.Duration;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-//import org.openqa.selenium.edge.EdgeDriver;
-//import org.openqa.selenium.firefox.FirefoxDriver;
-import org.testng.annotations.AfterClass;
-import org.testng.annotations.BeforeClass;
+import org.openqa.selenium.edge.EdgeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.testng.annotations.AfterMethod;
+import org.testng.annotations.BeforeMethod;
 
 import com.pageLayer.Loginpage;
 
-//import io.github.bonigarcia.wdm.WebDriverManager;
-import utility.PropertiesFileReader;
+import io.github.bonigarcia.wdm.WebDriverManager;
+//import utility.PropertiesFileReader;
 
 public class TestBase {
 
 	public static WebDriver driver;
-//	String br = "Chrome";
+	String br = "Chrome";
 	
-//	public void setUp(String br) throws IOException
-//	{
-//		if(br.equalsIgnoreCase("Chrome"))
-//		{
-//			WebDriverManager.chromedriver().setup();
-//			driver = new ChromeDriver();
-//		}
-//		else if(br.equalsIgnoreCase("firefox"))
-//		{
-//			WebDriverManager.firefoxdriver().setup();
-//			driver = new FirefoxDriver();
-//		}
-//		else if(br.equalsIgnoreCase("edge"))
-//		{
-//			WebDriverManager.edgedriver().setup();
-//			driver = new EdgeDriver();
-//		}
-//		else
-//		{
-//			System.out.println("Please provide correct browser");
-//		}
-//		System.out.println("Browser Launched");
-	@BeforeClass
-	public void setUp () throws IOException, InterruptedException
+	@BeforeMethod
+	public void setUp(String br) throws IOException
 	{
-		System.setProperty("webdriver.chrome.driver", "E:\\E Drive\\software testing\\Selenium server\\chromedriver.exe");
-		driver = new ChromeDriver();
+		if(br.equalsIgnoreCase("Chrome"))
+		{
+			WebDriverManager.chromedriver().setup();
+			driver = new ChromeDriver();
+		}
+		else if(br.equalsIgnoreCase("firefox"))
+		{
+			WebDriverManager.firefoxdriver().setup();
+			driver = new FirefoxDriver();
+		}
+		else if(br.equalsIgnoreCase("edge"))
+		{
+			WebDriverManager.edgedriver().setup();
+			driver = new EdgeDriver();
+		}
+		else 
+		{
+			System.out.println("Please provide correct browser");
+		}
+		System.out.println("Browser Launched");
+	
+//	public void setUp () throws IOException, InterruptedException
+//	{
+//		System.setProperty("webdriver.chrome.driver", "E:\\E Drive\\software testing\\Selenium server\\chromedriver.exe");
+//		driver = new ChromeDriver();	
+//		Thread.sleep(3000);
 		
-		Thread.sleep(3000);
-		driver.get(PropertiesFileReader.propertiesReadData("url"));
-		Thread.sleep(10000);
+		//driver.get(PropertiesFileReader.propertiesReadData("url"));
+		driver.get("https://google.com");
+	
+		
 		driver.manage().window().maximize();
 		driver.manage().deleteAllCookies();
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(30));
@@ -67,7 +70,7 @@ public class TestBase {
 		
 	}
 
-	@AfterClass
+	@AfterMethod
 	public void tearDown()
 	{
 		driver.quit();

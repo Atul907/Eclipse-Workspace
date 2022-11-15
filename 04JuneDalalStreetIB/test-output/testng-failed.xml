@@ -8,12 +8,24 @@
   </listeners>
   <test thread-count="5" name="RegressionTest(failed)">
     <classes>
+      <class name="com.testLayer.GetTranscationData">
+        <methods>
+          <include name="start"/>
+          <include name="test1"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="getData"/>
+          <include name="stop"/>
+        </methods>
+      </class> <!-- com.testLayer.GetTranscationData -->
       <class name="com.testLayer.BuyScenerio">
         <methods>
           <include name="buyShare1"/>
           <include name="start"/>
+          <include name="test1"/>
           <include name="setUp"/>
           <include name="tearDown"/>
+          <include name="buyShare"/>
           <include name="stop"/>
         </methods>
       </class> <!-- com.testLayer.BuyScenerio -->

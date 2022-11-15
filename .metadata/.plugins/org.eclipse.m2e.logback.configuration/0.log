@@ -4353,3 +4353,697 @@ Caused by: org.eclipse.core.runtime.OperationCanceledException: null
 2022-11-13 19:49:39,926 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\version-01\src\main\resources
 2022-11-13 19:49:39,929 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-11-13 19:49:39,929 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\version-01\src\test\resources
+2022-11-14 10:55:24,959 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 10:55:24,959 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\E Drive\Git\Suite_CRM_Telecom_Project\CRMTelecomProject\src\main\resources
+2022-11-14 10:55:24,963 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 10:55:24,964 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\E Drive\Git\Suite_CRM_Telecom_Project\CRMTelecomProject\src\test\resources
+2022-11-14 10:55:46,207 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 10:55:46,207 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\E Drive\Git\TestNGDataProviderExample\SwagLabDataProvider\src\main\resources
+2022-11-14 10:55:46,210 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 10:55:46,210 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\E Drive\Git\TestNGDataProviderExample\SwagLabDataProvider\src\test\resources
+2022-11-14 10:56:28,019 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 10:56:28,019 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\E Drive\Git\04JuneDemoBlazeTestProject\TestProject\src\main\resources
+2022-11-14 10:56:28,021 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 10:56:28,022 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\E Drive\Git\04JuneDemoBlazeTestProject\TestProject\src\test\resources
+2022-11-14 11:08:08,768 [Worker-72: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: CompleteSelenium:Project1:0.0.1-SNAPSHOT @ D:\D Drive\Eclipse Workspace\ForexBrokerProject\pom.xml.
+2022-11-14 11:08:11,961 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 11:08:11,961 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 11:08:11,964 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 11:08:11,965 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 11:08:13,294 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 11:08:13,295 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 11:08:13,299 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 11:08:13,300 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 11:30:41,179 [Worker-76: Launching mavenrun-d794623f-b7c6-4787-ba64-ce7d400c40b6] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\D Drive\Eclipse Workspace
+2022-11-14 11:30:41,180 [Worker-76: Launching mavenrun-d794623f-b7c6-4787-ba64-ce7d400c40b6] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -DarchetypeVersion=1.4 -Dpackage=Pepperstone.ForexBrokerProject -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-quickstart -DgroupId=Pepperstone -DartifactId=ForexBrokerProject -DoutputDirectory="D:\D Drive\Eclipse Workspace" -Dversion=0.0.1-SNAPSHOT -Dstyle.color=always -U archetype:generate
+2022-11-14 11:31:41,824 [Worker-78: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\D Drive\Eclipse Workspace\ForexBrokerProject\pom.xml
+2022-11-14 11:31:41,932 [Worker-78: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Pepperstone:ForexBrokerProject:0.0.1-SNAPSHOT @ D:\D Drive\Eclipse Workspace\ForexBrokerProject\pom.xml.
+2022-11-14 11:31:42,013 [Worker-78: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ForexBrokerProject/src/main/java
+2022-11-14 11:31:42,024 [Worker-78: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ForexBrokerProject/src/test/java
+2022-11-14 11:31:42,145 [Worker-78: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2022-11-14 11:31:42,872 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 11:31:42,873 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 11:31:42,875 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 11:31:42,875 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 11:32:19,901 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 11:32:19,901 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 11:32:19,904 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 11:32:19,904 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 11:32:42,978 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 11:32:42,979 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 11:32:42,981 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 11:32:42,981 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 11:34:12,795 [Worker-78: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Pepperstone:ForexBrokerProject:0.0.1-SNAPSHOT @ D:\D Drive\Eclipse Workspace\ForexBrokerProject\pom.xml.
+2022-11-14 11:34:13,985 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 11:34:13,985 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 11:34:13,988 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 11:34:13,988 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 11:34:15,312 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 11:34:15,312 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 11:34:15,313 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 11:34:15,314 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 11:34:38,738 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 11:34:38,738 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 11:34:38,741 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 11:34:38,741 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 11:34:43,729 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 11:34:43,729 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 11:34:43,732 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 11:34:43,732 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 11:35:39,763 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 11:35:39,763 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 11:35:39,765 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 11:35:39,765 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 11:36:25,779 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 11:36:25,779 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 11:36:25,783 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 11:36:25,783 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 11:36:48,369 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 11:36:48,370 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 11:36:48,373 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 11:36:48,373 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 11:37:54,828 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 11:37:54,829 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 11:37:54,833 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 11:37:54,833 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 11:38:20,659 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 11:38:20,660 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 11:38:20,662 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 11:38:20,662 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 11:40:52,878 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 11:40:52,878 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 11:40:52,881 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 11:40:52,881 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 11:46:24,500 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 11:46:24,500 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 11:46:24,503 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 11:46:24,503 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 11:48:47,619 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 11:48:47,619 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 11:48:47,622 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 11:48:47,623 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 11:54:21,666 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 11:54:21,666 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 11:54:21,668 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 11:54:21,669 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 11:55:12,994 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 11:55:12,994 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 11:55:12,996 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 11:55:12,997 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 11:55:52,671 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 11:55:52,671 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 11:55:52,674 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 11:55:52,674 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 11:58:50,577 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 11:58:50,577 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 11:58:50,580 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 11:58:50,580 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 11:59:45,678 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 11:59:45,678 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 11:59:45,681 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 11:59:45,681 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 12:00:14,992 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 12:00:14,993 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 12:00:14,995 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 12:00:14,995 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 12:02:47,665 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 12:02:47,666 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 12:02:47,668 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 12:02:47,668 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 12:10:16,981 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 12:10:16,981 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 12:10:16,984 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 12:10:16,984 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 12:19:34,088 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 12:19:34,088 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 12:19:34,091 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 12:19:34,091 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 12:32:55,293 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 12:32:55,294 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 12:32:55,296 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 12:32:55,296 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 12:37:44,596 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 12:37:44,596 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 12:37:44,599 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 12:37:44,599 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 12:39:10,012 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 12:39:10,013 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 12:39:10,015 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 12:39:10,015 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 12:46:18,031 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 12:46:18,031 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\DalalStreetIB\src\main\resources
+2022-11-14 12:46:18,033 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 12:46:18,033 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\DalalStreetIB\src\test\resources
+2022-11-14 12:46:18,058 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 12:46:18,058 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 12:46:18,060 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 12:46:18,060 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 12:46:18,094 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 12:46:18,094 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\PracticeMaven\src\main\resources
+2022-11-14 12:46:18,095 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 12:46:18,095 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\PracticeMaven\src\test\resources
+2022-11-14 12:46:18,121 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 12:46:18,121 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\E Drive\Git\TestNGDataProviderExample\SwagLabDataProvider\src\main\resources
+2022-11-14 12:46:18,123 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 12:46:18,123 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\E Drive\Git\TestNGDataProviderExample\SwagLabDataProvider\src\test\resources
+2022-11-14 12:46:18,144 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 12:46:18,144 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\version-01\src\main\resources
+2022-11-14 12:46:18,146 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 12:46:18,146 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\version-01\src\test\resources
+2022-11-14 12:49:44,093 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 12:49:44,093 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 12:49:44,096 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 12:49:44,096 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 12:52:07,082 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 12:52:07,082 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 12:52:07,086 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 12:52:07,086 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 12:53:14,261 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 12:53:14,261 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 12:53:14,263 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 12:53:14,263 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 12:53:58,451 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 12:53:58,452 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 12:53:58,454 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 12:53:58,454 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 13:11:16,251 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 13:11:16,252 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\04JuneDalalStreetIB\src\main\resources
+2022-11-14 13:11:16,254 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 13:11:16,254 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\04JuneDalalStreetIB\src\test\resources
+2022-11-14 13:11:17,354 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 13:11:17,354 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\DalalStreetIB\src\main\resources
+2022-11-14 13:11:17,356 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 13:11:17,356 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\DalalStreetIB\src\test\resources
+2022-11-14 13:16:25,431 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 13:16:25,432 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\04JuneDalalStreetIB\src\main\resources
+2022-11-14 13:16:25,434 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 13:16:25,434 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\04JuneDalalStreetIB\src\test\resources
+2022-11-14 13:19:17,375 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 13:19:17,375 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\04JuneDalalStreetIB\src\main\resources
+2022-11-14 13:19:17,377 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 13:19:17,378 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\04JuneDalalStreetIB\src\test\resources
+2022-11-14 13:20:21,686 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 13:20:21,686 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 13:20:21,689 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 13:20:21,689 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 13:24:04,926 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 13:24:04,927 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 13:24:04,930 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 13:24:04,930 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 13:26:07,134 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 13:26:07,134 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 13:26:07,136 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 13:26:07,136 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 13:27:55,871 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 13:27:55,872 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 13:27:55,874 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 13:27:55,874 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 13:28:04,311 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 13:28:04,311 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 13:28:04,313 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 13:28:04,313 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 13:28:26,263 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 13:28:26,263 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 13:28:26,267 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 13:28:26,267 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 13:29:46,412 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 13:29:46,412 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 13:29:46,414 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 13:29:46,414 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 13:33:56,951 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 13:33:56,951 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 13:33:56,953 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 13:33:56,954 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 13:37:16,025 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 13:37:16,026 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 13:37:16,028 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 13:37:16,028 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 13:38:02,846 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 13:38:02,846 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\version-01\src\main\resources
+2022-11-14 13:38:02,852 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 13:38:02,852 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\version-01\src\test\resources
+2022-11-14 13:38:15,711 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 13:38:15,712 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\version-01\src\main\resources
+2022-11-14 13:38:15,714 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 13:38:15,714 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\version-01\src\test\resources
+2022-11-14 13:38:27,399 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 13:38:27,399 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\version-01\src\main\resources
+2022-11-14 13:38:27,401 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 13:38:27,402 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\version-01\src\test\resources
+2022-11-14 13:38:39,107 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 13:38:39,107 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 13:38:39,110 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 13:38:39,111 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 13:38:44,600 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 13:38:44,600 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 13:38:44,607 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 13:38:44,607 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 13:39:35,498 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 13:39:35,498 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 13:39:35,500 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 13:39:35,501 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 13:42:15,003 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 13:42:15,003 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 13:42:15,005 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 13:42:15,006 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 13:44:12,867 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 13:44:12,868 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 13:44:12,871 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 13:44:12,872 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 13:46:20,368 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 13:46:20,369 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\04JuneDalalStreetIB\src\main\resources
+2022-11-14 13:46:20,372 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 13:46:20,372 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\04JuneDalalStreetIB\src\test\resources
+2022-11-14 13:46:45,070 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 13:46:45,070 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\04JuneDalalStreetIB\src\main\resources
+2022-11-14 13:46:45,072 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 13:46:45,072 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\04JuneDalalStreetIB\src\test\resources
+2022-11-14 13:47:17,085 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 13:47:17,085 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 13:47:17,087 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 13:47:17,087 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 13:50:36,178 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 13:50:36,179 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 13:50:36,181 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 13:50:36,181 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 13:50:36,319 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 13:50:36,319 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\version-01\src\main\resources
+2022-11-14 13:50:36,322 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 13:50:36,322 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\version-01\src\test\resources
+2022-11-14 13:55:11,492 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 13:55:11,492 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 13:55:11,495 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 13:55:11,495 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 13:56:59,101 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 13:56:59,101 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\version-01\src\main\resources
+2022-11-14 13:56:59,104 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 13:56:59,104 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\version-01\src\test\resources
+2022-11-14 13:58:59,205 [Worker-135: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 13:58:59,205 [Worker-135: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 13:58:59,208 [Worker-135: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 13:58:59,208 [Worker-135: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 14:02:09,335 [Worker-135: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 14:02:09,335 [Worker-135: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 14:02:09,338 [Worker-135: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 14:02:09,338 [Worker-135: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 14:05:34,221 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 14:05:34,221 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 14:05:34,223 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 14:05:34,224 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 14:07:03,527 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 14:07:03,527 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 14:07:03,530 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 14:07:03,531 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 14:07:47,976 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 14:07:47,976 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 14:07:47,978 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 14:07:47,979 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 14:12:33,962 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 14:12:33,963 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 14:12:33,965 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 14:12:33,965 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 14:15:18,864 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 14:15:18,864 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 14:15:18,866 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 14:15:18,867 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 14:16:43,734 [Worker-138: Launching LoginpageTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 14:16:43,734 [Worker-138: Launching LoginpageTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 14:16:43,736 [Worker-138: Launching LoginpageTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 14:16:43,736 [Worker-138: Launching LoginpageTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 14:18:17,879 [Worker-135: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 14:18:17,879 [Worker-135: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 14:18:17,881 [Worker-135: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 14:18:17,881 [Worker-135: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 14:22:47,992 [Worker-140: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 14:22:47,992 [Worker-140: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 14:22:47,995 [Worker-140: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 14:22:47,995 [Worker-140: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 14:24:29,949 [Worker-140: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 14:24:29,950 [Worker-140: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 14:24:29,951 [Worker-140: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 14:24:29,951 [Worker-140: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 14:26:15,094 [Worker-140: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 14:26:15,095 [Worker-140: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\04JuneDalalStreetIB\src\main\resources
+2022-11-14 14:26:15,105 [Worker-140: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 14:26:15,105 [Worker-140: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\04JuneDalalStreetIB\src\test\resources
+2022-11-14 14:31:48,789 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 14:31:48,790 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 14:31:48,793 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 14:31:48,794 [Worker-145: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 14:43:12,907 [Worker-140: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 14:43:12,908 [Worker-140: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 14:43:12,912 [Worker-140: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 14:43:12,912 [Worker-140: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 14:44:50,923 [Worker-146: Launching LoginpageTest.verifyloginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 14:44:50,923 [Worker-146: Launching LoginpageTest.verifyloginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 14:44:50,925 [Worker-146: Launching LoginpageTest.verifyloginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 14:44:50,925 [Worker-146: Launching LoginpageTest.verifyloginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 14:50:24,068 [Worker-152: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 14:50:24,068 [Worker-152: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 14:50:24,070 [Worker-152: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 14:50:24,070 [Worker-152: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 17:18:23,127 [Worker-159: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 17:18:23,128 [Worker-159: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 17:18:23,131 [Worker-159: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 17:18:23,131 [Worker-159: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 17:18:24,171 [Worker-156: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 17:18:24,171 [Worker-156: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 17:18:24,173 [Worker-156: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 17:18:24,173 [Worker-156: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 17:21:20,498 [Worker-156: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 17:21:20,498 [Worker-156: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 17:21:20,501 [Worker-156: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 17:21:20,502 [Worker-156: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 17:21:44,449 [Worker-156: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 17:21:44,449 [Worker-156: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 17:21:44,451 [Worker-156: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 17:21:44,451 [Worker-156: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 17:23:03,192 [Worker-160: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 17:23:03,193 [Worker-160: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\04JuneDalalStreetIB\src\main\resources
+2022-11-14 17:23:03,194 [Worker-160: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 17:23:03,194 [Worker-160: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\04JuneDalalStreetIB\src\test\resources
+2022-11-14 17:23:06,378 [Worker-160: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 17:23:06,378 [Worker-160: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\DalalStreetIB\src\main\resources
+2022-11-14 17:23:06,380 [Worker-160: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 17:23:06,380 [Worker-160: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\DalalStreetIB\src\test\resources
+2022-11-14 17:24:49,166 [Worker-154: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 17:24:49,166 [Worker-154: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\DalalStreetIB\src\main\resources
+2022-11-14 17:24:49,168 [Worker-154: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 17:24:49,169 [Worker-154: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\DalalStreetIB\src\test\resources
+2022-11-14 17:24:54,008 [Worker-161: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 17:24:54,009 [Worker-161: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\DalalStreetIB\src\main\resources
+2022-11-14 17:24:54,013 [Worker-161: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 17:24:54,013 [Worker-161: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\DalalStreetIB\src\test\resources
+2022-11-14 17:25:48,857 [Worker-160: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 17:25:48,857 [Worker-160: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\04JuneDalalStreetIB\src\main\resources
+2022-11-14 17:25:48,859 [Worker-160: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 17:25:48,859 [Worker-160: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\04JuneDalalStreetIB\src\test\resources
+2022-11-14 17:26:04,187 [Worker-156: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 17:26:04,187 [Worker-156: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\04JuneDalalStreetIB\src\main\resources
+2022-11-14 17:26:04,189 [Worker-156: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 17:26:04,189 [Worker-156: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\04JuneDalalStreetIB\src\test\resources
+2022-11-14 17:26:20,887 [Worker-154: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 17:26:20,887 [Worker-154: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\DalalStreetIB\src\main\resources
+2022-11-14 17:26:20,889 [Worker-154: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 17:26:20,889 [Worker-154: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\DalalStreetIB\src\test\resources
+2022-11-14 17:26:50,300 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 17:26:50,300 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\DalalStreetIB\src\main\resources
+2022-11-14 17:26:50,302 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 17:26:50,302 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\DalalStreetIB\src\test\resources
+2022-11-14 17:27:49,877 [Worker-161: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 17:27:49,877 [Worker-161: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\DalalStreetIB\src\main\resources
+2022-11-14 17:27:49,879 [Worker-161: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 17:27:49,879 [Worker-161: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\DalalStreetIB\src\test\resources
+2022-11-14 17:28:10,165 [Worker-160: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 17:28:10,165 [Worker-160: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\DalalStreetIB\src\main\resources
+2022-11-14 17:28:10,167 [Worker-160: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 17:28:10,167 [Worker-160: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\DalalStreetIB\src\test\resources
+2022-11-14 17:28:44,543 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 17:28:44,543 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\version-01\src\main\resources
+2022-11-14 17:28:44,546 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 17:28:44,546 [Worker-162: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\version-01\src\test\resources
+2022-11-14 17:28:57,946 [Worker-161: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 17:28:57,946 [Worker-161: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\version-01\src\main\resources
+2022-11-14 17:28:57,953 [Worker-161: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 17:28:57,953 [Worker-161: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\version-01\src\test\resources
+2022-11-14 17:29:21,650 [Worker-156: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 17:29:21,650 [Worker-156: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\DalalStreetIB\src\main\resources
+2022-11-14 17:29:21,654 [Worker-156: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 17:29:21,654 [Worker-156: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\DalalStreetIB\src\test\resources
+2022-11-14 17:54:43,915 [Worker-169: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 17:54:43,916 [Worker-169: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 17:54:43,920 [Worker-169: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 17:54:43,920 [Worker-169: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 19:57:54,683 [Worker-174: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 19:57:54,683 [Worker-174: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\04JuneDalalStreetIB\src\main\resources
+2022-11-14 19:57:54,686 [Worker-174: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 19:57:54,686 [Worker-174: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\04JuneDalalStreetIB\src\test\resources
+2022-11-14 19:57:57,868 [Worker-174: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 19:57:57,869 [Worker-174: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 19:57:57,871 [Worker-174: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 19:57:57,871 [Worker-174: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 19:58:32,482 [Worker-173: Launching LoginpageTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 19:58:32,482 [Worker-173: Launching LoginpageTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\04JuneDalalStreetIB\src\main\resources
+2022-11-14 19:58:32,484 [Worker-173: Launching LoginpageTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 19:58:32,484 [Worker-173: Launching LoginpageTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\04JuneDalalStreetIB\src\test\resources
+2022-11-14 20:00:00,199 [Worker-173: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:00:00,199 [Worker-173: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 20:00:00,203 [Worker-173: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:00:00,203 [Worker-173: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 20:01:20,813 [Worker-173: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:01:20,814 [Worker-173: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 20:01:20,816 [Worker-173: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:01:20,817 [Worker-173: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 20:03:03,640 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:03:03,640 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 20:03:03,648 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:03:03,648 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 20:13:09,653 [Worker-183: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:13:09,653 [Worker-183: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\04JuneDalalStreetIB\src\main\resources
+2022-11-14 20:13:09,655 [Worker-183: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:13:09,655 [Worker-183: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\04JuneDalalStreetIB\src\test\resources
+2022-11-14 20:13:09,707 [Worker-183: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:13:09,707 [Worker-183: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 20:13:09,711 [Worker-183: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:13:09,711 [Worker-183: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 20:14:59,806 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-11-14 20:23:20,349 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:23:20,356 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 20:23:20,371 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:23:20,372 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 20:27:21,569 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:27:21,569 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 20:27:21,580 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:27:21,580 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 20:29:02,841 [Worker-2: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Pepperstone:ForexBrokerProject:0.0.1-SNAPSHOT @ D:\D Drive\Eclipse Workspace\ForexBrokerProject\pom.xml.
+2022-11-14 20:29:05,456 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:29:05,457 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 20:29:05,464 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:29:05,464 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 20:29:08,166 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:29:08,167 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 20:29:08,174 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:29:08,175 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 20:30:26,719 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:30:26,719 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\04JuneDalalStreetIB\src\main\resources
+2022-11-14 20:30:26,723 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:30:26,724 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\04JuneDalalStreetIB\src\test\resources
+2022-11-14 20:30:33,072 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:30:33,073 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\E Drive\Git\Suite_CRM_Telecom_Project\CRMTelecomProject\src\main\resources
+2022-11-14 20:30:33,077 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:30:33,077 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\E Drive\Git\Suite_CRM_Telecom_Project\CRMTelecomProject\src\test\resources
+2022-11-14 20:30:35,228 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:30:35,228 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\DalalStreetIB\src\main\resources
+2022-11-14 20:30:35,233 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:30:35,234 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\DalalStreetIB\src\test\resources
+2022-11-14 20:30:35,740 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:30:35,741 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 20:30:35,744 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:30:35,745 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 20:30:41,866 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:30:41,867 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\PracticeMaven\src\main\resources
+2022-11-14 20:30:41,871 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:30:41,871 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\PracticeMaven\src\test\resources
+2022-11-14 20:30:44,241 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:30:44,242 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 20:30:44,249 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:30:44,250 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 20:30:44,357 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:30:44,358 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\E Drive\Git\TestNGDataProviderExample\SwagLabDataProvider\src\main\resources
+2022-11-14 20:30:44,365 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:30:44,365 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\E Drive\Git\TestNGDataProviderExample\SwagLabDataProvider\src\test\resources
+2022-11-14 20:30:45,170 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:30:45,171 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\E Drive\Git\04JuneDemoBlazeTestProject\TestProject\src\main\resources
+2022-11-14 20:30:45,175 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:30:45,175 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\E Drive\Git\04JuneDemoBlazeTestProject\TestProject\src\test\resources
+2022-11-14 20:30:45,678 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:30:45,679 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\version-01\src\main\resources
+2022-11-14 20:30:45,684 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:30:45,684 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\version-01\src\test\resources
+2022-11-14 20:30:47,252 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:30:47,253 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\E Drive\Git\TestNGDataProviderExample\SwagLabDataProvider\src\main\resources
+2022-11-14 20:30:47,257 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:30:47,257 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\E Drive\Git\TestNGDataProviderExample\SwagLabDataProvider\src\test\resources
+2022-11-14 20:36:20,644 [Worker-19: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Pepperstone:ForexBrokerProject:0.0.1-SNAPSHOT @ D:\D Drive\Eclipse Workspace\ForexBrokerProject\pom.xml.
+2022-11-14 20:36:22,343 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:36:22,343 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 20:36:22,347 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:36:22,347 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 20:36:26,171 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:36:26,171 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 20:36:26,193 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:36:26,194 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 20:43:54,734 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:43:54,734 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 20:43:54,739 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:43:54,739 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 20:44:42,539 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:44:42,544 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 20:44:42,551 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:44:42,552 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 20:44:46,369 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:44:46,369 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 20:44:46,372 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:44:46,373 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 20:44:49,495 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:44:49,496 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 20:44:49,498 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:44:49,498 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 20:45:46,330 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:45:46,330 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 20:45:46,333 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:45:46,333 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 20:46:05,097 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:46:05,097 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\04JuneDalalStreetIB\src\main\resources
+2022-11-14 20:46:05,102 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:46:05,102 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\04JuneDalalStreetIB\src\test\resources
+2022-11-14 20:46:06,373 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:46:06,373 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\E Drive\Git\Suite_CRM_Telecom_Project\CRMTelecomProject\src\main\resources
+2022-11-14 20:46:06,377 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:46:06,377 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\E Drive\Git\Suite_CRM_Telecom_Project\CRMTelecomProject\src\test\resources
+2022-11-14 20:46:08,576 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:46:08,576 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\DalalStreetIB\src\main\resources
+2022-11-14 20:46:08,581 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:46:08,582 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\DalalStreetIB\src\test\resources
+2022-11-14 20:46:09,009 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:46:09,010 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 20:46:09,014 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:46:09,014 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 20:46:10,381 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:46:10,381 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\PracticeMaven\src\main\resources
+2022-11-14 20:46:10,384 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:46:10,384 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\PracticeMaven\src\test\resources
+2022-11-14 20:46:11,842 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:46:11,843 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\E Drive\Git\TestNGDataProviderExample\SwagLabDataProvider\src\main\resources
+2022-11-14 20:46:11,848 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:46:11,848 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\E Drive\Git\TestNGDataProviderExample\SwagLabDataProvider\src\test\resources
+2022-11-14 20:46:12,344 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:46:12,344 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\E Drive\Git\04JuneDemoBlazeTestProject\TestProject\src\main\resources
+2022-11-14 20:46:12,348 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:46:12,348 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\E Drive\Git\04JuneDemoBlazeTestProject\TestProject\src\test\resources
+2022-11-14 20:46:12,947 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:46:12,948 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\E Drive\Git\TestNGDataProviderExample\SwagLabDataProvider\src\main\resources
+2022-11-14 20:46:12,953 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:46:12,953 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\E Drive\Git\TestNGDataProviderExample\SwagLabDataProvider\src\test\resources
+2022-11-14 20:46:13,173 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:46:13,173 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\version-01\src\main\resources
+2022-11-14 20:46:13,176 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:46:13,176 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\version-01\src\test\resources
+2022-11-14 20:49:39,084 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:49:39,084 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\PracticeMaven\src\main\resources
+2022-11-14 20:49:39,088 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:49:39,088 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\PracticeMaven\src\test\resources
+2022-11-14 20:50:16,098 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:50:16,098 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\PracticeMaven\src\main\resources
+2022-11-14 20:50:16,103 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 20:50:16,103 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\PracticeMaven\src\test\resources
+2022-11-14 20:59:02,633 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-11-14 21:03:49,992 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-11-14 21:04:17,592 [Worker-11: Launching ActiTimeTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 21:04:17,596 [Worker-11: Launching ActiTimeTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\PracticeMaven\src\main\resources
+2022-11-14 21:04:17,605 [Worker-11: Launching ActiTimeTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 21:04:17,606 [Worker-11: Launching ActiTimeTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\PracticeMaven\src\test\resources
+2022-11-14 21:04:22,066 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 21:04:22,066 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\04JuneDalalStreetIB\src\main\resources
+2022-11-14 21:04:22,072 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 21:04:22,073 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\04JuneDalalStreetIB\src\test\resources
+2022-11-14 21:04:25,437 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 21:04:25,437 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\E Drive\Git\Suite_CRM_Telecom_Project\CRMTelecomProject\src\main\resources
+2022-11-14 21:04:25,447 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 21:04:25,448 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\E Drive\Git\Suite_CRM_Telecom_Project\CRMTelecomProject\src\test\resources
+2022-11-14 21:04:30,580 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 21:04:30,580 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\DalalStreetIB\src\main\resources
+2022-11-14 21:04:30,585 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 21:04:30,585 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\DalalStreetIB\src\test\resources
+2022-11-14 21:04:33,871 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 21:04:33,871 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 21:04:33,875 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 21:04:33,875 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 21:04:42,522 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 21:04:42,522 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\E Drive\Git\TestNGDataProviderExample\SwagLabDataProvider\src\main\resources
+2022-11-14 21:04:42,527 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 21:04:42,528 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\E Drive\Git\TestNGDataProviderExample\SwagLabDataProvider\src\test\resources
+2022-11-14 21:04:43,206 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 21:04:43,207 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\E Drive\Git\TestNGDataProviderExample\SwagLabDataProvider\src\main\resources
+2022-11-14 21:04:43,211 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 21:04:43,211 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\E Drive\Git\TestNGDataProviderExample\SwagLabDataProvider\src\test\resources
+2022-11-14 21:04:44,929 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 21:04:44,929 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\E Drive\Git\04JuneDemoBlazeTestProject\TestProject\src\main\resources
+2022-11-14 21:04:44,935 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 21:04:44,935 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\E Drive\Git\04JuneDemoBlazeTestProject\TestProject\src\test\resources
+2022-11-14 21:04:46,272 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 21:04:46,272 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\version-01\src\main\resources
+2022-11-14 21:04:46,283 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 21:04:46,284 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\version-01\src\test\resources
+2022-11-14 21:05:24,423 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 21:05:24,423 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 21:05:24,430 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 21:05:24,431 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 21:05:24,649 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 21:05:24,649 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 21:05:24,655 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 21:05:24,655 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-14 21:06:06,740 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 21:06:06,741 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\PracticeMaven\src\main\resources
+2022-11-14 21:06:06,744 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 21:06:06,744 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\PracticeMaven\src\test\resources
+2022-11-14 21:10:41,925 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 21:10:41,925 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-14 21:10:41,937 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-14 21:10:41,937 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-15 10:43:50,627 [Worker-25: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Pepperstone:ForexBrokerProject:0.0.1-SNAPSHOT @ D:\D Drive\Eclipse Workspace\ForexBrokerProject\pom.xml.
+2022-11-15 10:43:51,977 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-15 10:43:51,977 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-15 10:43:51,982 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-15 10:43:51,983 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-15 10:43:52,784 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-15 10:43:52,785 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-15 10:43:52,792 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-15 10:43:52,792 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-15 10:44:14,127 [Worker-27: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Pepperstone:ForexBrokerProject:0.0.1-SNAPSHOT @ D:\D Drive\Eclipse Workspace\ForexBrokerProject\pom.xml.
+2022-11-15 10:44:15,446 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-15 10:44:15,446 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-15 10:44:15,451 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-15 10:44:15,451 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-15 10:44:17,034 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-15 10:44:17,035 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-15 10:44:17,038 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-15 10:44:17,038 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-15 11:18:49,857 [Worker-59: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Pepperstone:ForexBrokerProject:0.0.1-SNAPSHOT @ D:\D Drive\Eclipse Workspace\ForexBrokerProject\pom.xml.
+2022-11-15 11:18:51,554 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-15 11:18:51,554 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-15 11:18:51,558 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-15 11:18:51,558 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-15 11:18:53,662 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-15 11:18:53,662 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-15 11:18:53,665 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-15 11:18:53,665 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-15 11:23:47,106 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-15 11:23:47,106 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-15 11:23:47,110 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-15 11:23:47,110 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-15 11:30:05,148 [Worker-70: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Pepperstone:ForexBrokerProject:0.0.1-SNAPSHOT @ D:\D Drive\Eclipse Workspace\ForexBrokerProject\pom.xml.
+2022-11-15 11:30:10,312 [Worker-70: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/testng/testng/7.4.0/testng-7.4.0.jar
+2022-11-15 11:30:12,903 [Worker-70: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/testng/testng/7.4.0/testng-7.4.0.jar
+2022-11-15 11:30:13,954 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-15 11:30:13,954 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-15 11:30:13,957 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-15 11:30:13,958 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-15 11:30:15,567 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-15 11:30:15,567 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-15 11:30:15,570 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-15 11:30:15,571 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-15 11:30:15,677 [Worker-48: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/testng/testng/7.4.0/testng-7.4.0-sources.jar
+2022-11-15 11:30:17,555 [Worker-48: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/testng/testng/7.4.0/testng-7.4.0-sources.jar
+2022-11-15 11:30:17,580 [Worker-48: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.testng:testng:7.4.0
+2022-11-15 11:30:18,327 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-15 11:30:18,328 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-15 11:30:18,331 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-15 11:30:18,331 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-15 11:30:34,190 [Worker-48: Launching Executing install in D__D Drive_Eclipse Workspace_ForexBrokerProject] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\D Drive\Eclipse Workspace\ForexBrokerProject
+2022-11-15 11:30:34,190 [Worker-48: Launching Executing install in D__D Drive_Eclipse Workspace_ForexBrokerProject] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dstyle.color=always install
+2022-11-15 11:38:37,255 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-15 11:38:37,255 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\main\resources
+2022-11-15 11:38:37,260 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-15 11:38:37,261 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\D Drive\Eclipse Workspace\ForexBrokerProject\src\test\resources
+2022-11-15 11:52:16,532 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.

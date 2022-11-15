@@ -1,7 +1,8 @@
 package actiTime;
 
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
+//import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.edge.EdgeDriver;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeClass;
@@ -18,9 +19,8 @@ public class ActiTimeTest {
 	public void openBrowser () 
 	{		
 		System.out.println("Opening Browser");
-		System.setProperty("webdriver.chrome.driver", "E:\\E Drive\\software testing\\Selenium server\\chromedriver.exe");
-		
-		driver = new ChromeDriver();
+		System.setProperty("webdriver.edge.driver","E:\\E Drive\\software testing\\Selenium server\\msedgebrowser\\msedgedriver.exe");		
+		driver = new EdgeDriver();
 		driver.manage().window().maximize();
 		driver.get("http://localhost/login.do");
 		System.out.println("Chrome opened Succesfully");
