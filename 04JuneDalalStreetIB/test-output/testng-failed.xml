@@ -1,34 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="Failed suite [RegressionSuite]" guice-stage="DEVELOPMENT">
-  <parameter name="browser" value="edge"/>
-  <listeners>
-    <listener class-name="com.utility.ListenerSetup"/>
-    <listener class-name="com.utility.ExtentReporterNG"/>
-  </listeners>
-  <test thread-count="5" name="RegressionTest(failed)">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.testLayer.GetTranscationData">
+      <class name="com.testLayer.LoginpageTest">
         <methods>
           <include name="start"/>
           <include name="test1"/>
           <include name="setUp"/>
+          <include name="verifyLoginTest"/>
           <include name="tearDown"/>
-          <include name="getData"/>
           <include name="stop"/>
         </methods>
-      </class> <!-- com.testLayer.GetTranscationData -->
-      <class name="com.testLayer.BuyScenerio">
-        <methods>
-          <include name="buyShare1"/>
-          <include name="start"/>
-          <include name="test1"/>
-          <include name="setUp"/>
-          <include name="tearDown"/>
-          <include name="buyShare"/>
-          <include name="stop"/>
-        </methods>
-      </class> <!-- com.testLayer.BuyScenerio -->
+      </class> <!-- com.testLayer.LoginpageTest -->
     </classes>
-  </test> <!-- RegressionTest(failed) -->
-</suite> <!-- Failed suite [RegressionSuite] -->
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

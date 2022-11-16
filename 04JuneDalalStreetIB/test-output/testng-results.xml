@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="1" total="4" passed="0" failed="0" skipped="3">
+<testng-results ignored="0" total="1" passed="0" failed="0" skipped="1">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-11-14T21:06:34 IST" name="RegressionSuite" finished-at="2022-11-14T21:06:35 IST" duration-ms="660">
+  <suite started-at="2022-11-15T12:48:56 IST" name="Default suite" finished-at="2022-11-15T12:48:56 IST" duration-ms="717">
     <groups>
     </groups>
-    <test started-at="2022-11-14T21:06:34 IST" name="RegressionTest" finished-at="2022-11-14T21:06:35 IST" duration-ms="660">
-      <class name="com.testLayer.GetTranscationData">
-        <test-method is-config="true" signature="test1()[pri:0, instance:com.testLayer.GetTranscationData@131774fe]" started-at="2022-11-14T21:06:34 IST" name="test1" finished-at="2022-11-14T21:06:34 IST" duration-ms="11" status="PASS">
+    <test started-at="2022-11-15T12:48:56 IST" name="Default test" finished-at="2022-11-15T12:48:56 IST" duration-ms="717">
+      <class name="com.testLayer.LoginpageTest">
+        <test-method is-config="true" signature="test1()[pri:0, instance:com.testLayer.LoginpageTest@74fe5c40]" started-at="2022-11-15T12:48:56 IST" name="test1" finished-at="2022-11-15T12:48:56 IST" duration-ms="17" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method is-config="true" signature="start()[pri:0, instance:com.testLayer.GetTranscationData@131774fe]" started-at="2022-11-14T21:06:34 IST" name="start" finished-at="2022-11-14T21:06:34 IST" duration-ms="336" status="PASS">
+        <test-method is-config="true" signature="start()[pri:0, instance:com.testLayer.LoginpageTest@74fe5c40]" started-at="2022-11-15T12:48:56 IST" name="start" finished-at="2022-11-15T12:48:56 IST" duration-ms="591" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- start -->
-        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.testLayer.GetTranscationData@131774fe]" started-at="2022-11-14T21:06:34 IST" name="setUp" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1668440194895" status="FAIL">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.testLayer.LoginpageTest@74fe5c40]" started-at="2022-11-15T12:48:56 IST" name="setUp" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1668496736689" status="FAIL">
           <exception class="org.testng.TestNGException">
             <message>
               <![CDATA[
 Parameter 'Chrome' is required by BeforeMethod on method setUp but has not been marked @Optional or defined
-in D:\D Drive\Eclipse Workspace\04JuneDalalStreetIB\RegressionSuite.xml]]>
+in C:\Users\Atul\AppData\Local\Temp\testng-eclipse-389259860\testng-customsuite.xml]]>
             </message>
             <full-stacktrace>
               <![CDATA[org.testng.TestNGException: 
 Parameter 'Chrome' is required by BeforeMethod on method setUp but has not been marked @Optional or defined
-in D:\D Drive\Eclipse Workspace\04JuneDalalStreetIB\RegressionSuite.xml
+in C:\Users\Atul\AppData\Local\Temp\testng-eclipse-389259860\testng-customsuite.xml
 at org.testng.internal.Parameters.createParams(Parameters.java:270)
 at org.testng.internal.Parameters.createParametersForMethod(Parameters.java:358)
 at org.testng.internal.Parameters.createParameters(Parameters.java:700)
@@ -61,17 +61,17 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="getData()[pri:0, instance:com.testLayer.GetTranscationData@131774fe]" started-at="2022-11-14T21:06:34 IST" name="getData" finished-at="2022-11-14T21:06:34 IST" duration-ms="0" status="SKIP">
+        <test-method signature="verifyLoginTest()[pri:0, instance:com.testLayer.LoginpageTest@74fe5c40]" started-at="2022-11-15T12:48:56 IST" name="verifyLoginTest" finished-at="2022-11-15T12:48:56 IST" duration-ms="0" status="SKIP">
           <exception class="org.testng.TestNGException">
             <message>
               <![CDATA[
 Parameter 'Chrome' is required by BeforeMethod on method setUp but has not been marked @Optional or defined
-in D:\D Drive\Eclipse Workspace\04JuneDalalStreetIB\RegressionSuite.xml]]>
+in C:\Users\Atul\AppData\Local\Temp\testng-eclipse-389259860\testng-customsuite.xml]]>
             </message>
             <full-stacktrace>
               <![CDATA[org.testng.TestNGException: 
 Parameter 'Chrome' is required by BeforeMethod on method setUp but has not been marked @Optional or defined
-in D:\D Drive\Eclipse Workspace\04JuneDalalStreetIB\RegressionSuite.xml
+in C:\Users\Atul\AppData\Local\Temp\testng-eclipse-389259860\testng-customsuite.xml
 at org.testng.internal.Parameters.createParams(Parameters.java:270)
 at org.testng.internal.Parameters.createParametersForMethod(Parameters.java:358)
 at org.testng.internal.Parameters.createParameters(Parameters.java:700)
@@ -106,176 +106,16 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           </exception> <!-- org.testng.TestNGException -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- getData -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.testLayer.GetTranscationData@131774fe]" started-at="2022-11-14T21:06:34 IST" name="tearDown" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1668440194996" status="SKIP">
+        </test-method> <!-- verifyLoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.testLayer.LoginpageTest@74fe5c40]" started-at="2022-11-15T12:48:56 IST" name="tearDown" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1668496736731" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="stop()[pri:0, instance:com.testLayer.GetTranscationData@131774fe]" started-at="2022-11-14T21:06:35 IST" name="stop" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1668440195008" status="SKIP">
+        <test-method is-config="true" signature="stop()[pri:0, instance:com.testLayer.LoginpageTest@74fe5c40]" started-at="2022-11-15T12:48:56 IST" name="stop" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1668496736735" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- stop -->
-      </class> <!-- com.testLayer.GetTranscationData -->
-      <class name="com.testLayer.BuyScenerio">
-        <test-method is-config="true" signature="start()[pri:0, instance:com.testLayer.BuyScenerio@c8c12ac]" started-at="2022-11-14T21:06:35 IST" name="start" finished-at="2022-11-14T21:06:35 IST" duration-ms="17" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- start -->
-        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.testLayer.BuyScenerio@c8c12ac]" started-at="2022-11-14T21:06:35 IST" name="setUp" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1668440195045" status="FAIL">
-          <exception class="org.testng.TestNGException">
-            <message>
-              <![CDATA[
-Parameter 'Chrome' is required by BeforeMethod on method setUp but has not been marked @Optional or defined
-in D:\D Drive\Eclipse Workspace\04JuneDalalStreetIB\RegressionSuite.xml]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.testng.TestNGException: 
-Parameter 'Chrome' is required by BeforeMethod on method setUp but has not been marked @Optional or defined
-in D:\D Drive\Eclipse Workspace\04JuneDalalStreetIB\RegressionSuite.xml
-at org.testng.internal.Parameters.createParams(Parameters.java:270)
-at org.testng.internal.Parameters.createParametersForMethod(Parameters.java:358)
-at org.testng.internal.Parameters.createParameters(Parameters.java:700)
-at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:168)
-at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:302)
-at org.testng.internal.TestInvoker.runConfigMethods(TestInvoker.java:700)
-at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:527)
-at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
-at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
-at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
-at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
-at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
-at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-at org.testng.TestRunner.privateRun(TestRunner.java:794)
-at org.testng.TestRunner.run(TestRunner.java:596)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
-at org.testng.SuiteRunner.run(SuiteRunner.java:276)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
-at org.testng.TestNG.runSuites(TestNG.java:1063)
-at org.testng.TestNG.run(TestNG.java:1031)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.testng.TestNGException -->
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method signature="buyShare()[pri:0, instance:com.testLayer.BuyScenerio@c8c12ac]" started-at="2022-11-14T21:06:35 IST" name="buyShare" finished-at="2022-11-14T21:06:35 IST" duration-ms="0" status="SKIP">
-          <exception class="org.testng.TestNGException">
-            <message>
-              <![CDATA[
-Parameter 'Chrome' is required by BeforeMethod on method setUp but has not been marked @Optional or defined
-in D:\D Drive\Eclipse Workspace\04JuneDalalStreetIB\RegressionSuite.xml]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.testng.TestNGException: 
-Parameter 'Chrome' is required by BeforeMethod on method setUp but has not been marked @Optional or defined
-in D:\D Drive\Eclipse Workspace\04JuneDalalStreetIB\RegressionSuite.xml
-at org.testng.internal.Parameters.createParams(Parameters.java:270)
-at org.testng.internal.Parameters.createParametersForMethod(Parameters.java:358)
-at org.testng.internal.Parameters.createParameters(Parameters.java:700)
-at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:168)
-at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:302)
-at org.testng.internal.TestInvoker.runConfigMethods(TestInvoker.java:700)
-at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:527)
-at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
-at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
-at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
-at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
-at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
-at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-at org.testng.TestRunner.privateRun(TestRunner.java:794)
-at org.testng.TestRunner.run(TestRunner.java:596)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
-at org.testng.SuiteRunner.run(SuiteRunner.java:276)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
-at org.testng.TestNG.runSuites(TestNG.java:1063)
-at org.testng.TestNG.run(TestNG.java:1031)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.testng.TestNGException -->
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- buyShare -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.testLayer.BuyScenerio@c8c12ac]" started-at="2022-11-14T21:06:35 IST" name="tearDown" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1668440195082" status="SKIP">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.testLayer.BuyScenerio@c8c12ac]" started-at="2022-11-14T21:06:35 IST" name="setUp" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1668440195096" status="SKIP">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method signature="buyShare1()[pri:0, instance:com.testLayer.BuyScenerio@c8c12ac]" started-at="2022-11-14T21:06:35 IST" name="buyShare1" finished-at="2022-11-14T21:06:35 IST" duration-ms="0" status="SKIP">
-          <exception class="org.testng.TestNGException">
-            <message>
-              <![CDATA[
-Parameter 'Chrome' is required by BeforeMethod on method setUp but has not been marked @Optional or defined
-in D:\D Drive\Eclipse Workspace\04JuneDalalStreetIB\RegressionSuite.xml]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.testng.TestNGException: 
-Parameter 'Chrome' is required by BeforeMethod on method setUp but has not been marked @Optional or defined
-in D:\D Drive\Eclipse Workspace\04JuneDalalStreetIB\RegressionSuite.xml
-at org.testng.internal.Parameters.createParams(Parameters.java:270)
-at org.testng.internal.Parameters.createParametersForMethod(Parameters.java:358)
-at org.testng.internal.Parameters.createParameters(Parameters.java:700)
-at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:168)
-at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:302)
-at org.testng.internal.TestInvoker.runConfigMethods(TestInvoker.java:700)
-at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:527)
-at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
-at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
-at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
-at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
-at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
-at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-at org.testng.TestRunner.privateRun(TestRunner.java:794)
-at org.testng.TestRunner.run(TestRunner.java:596)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
-at org.testng.SuiteRunner.run(SuiteRunner.java:276)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
-at org.testng.TestNG.runSuites(TestNG.java:1063)
-at org.testng.TestNG.run(TestNG.java:1031)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.testng.TestNGException -->
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- buyShare1 -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.testLayer.BuyScenerio@c8c12ac]" started-at="2022-11-14T21:06:35 IST" name="tearDown" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1668440195155" status="SKIP">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="stop()[pri:0, instance:com.testLayer.BuyScenerio@c8c12ac]" started-at="2022-11-14T21:06:35 IST" name="stop" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1668440195165" status="SKIP">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- stop -->
-      </class> <!-- com.testLayer.BuyScenerio -->
-    </test> <!-- RegressionTest -->
-  </suite> <!-- RegressionSuite -->
+      </class> <!-- com.testLayer.LoginpageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

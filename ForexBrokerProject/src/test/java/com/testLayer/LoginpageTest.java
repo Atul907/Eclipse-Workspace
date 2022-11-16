@@ -21,9 +21,7 @@ public class LoginpageTest extends TestBase{
 		login.clickOnLoginButton();
 		
 		Thread.sleep(3000);
-		
-		
-		
+
 		
 	}
 }

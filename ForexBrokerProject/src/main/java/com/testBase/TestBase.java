@@ -21,7 +21,7 @@ public class TestBase {
 	String br = "Chrome";
 	
 	@BeforeMethod
-	public void setUp(String br) throws IOException
+	public void setUp() throws IOException
 	{
 		if(br.equalsIgnoreCase("Chrome"))
 		{
