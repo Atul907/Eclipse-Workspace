@@ -29,14 +29,22 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="Bank.CapitalTrade"/>
+			<item value="Bank.CapitalTrading"/>
+			<item value="Problem.ProblemProject"/>
 			<item value="Pepperstone.ForexBrokerProject"/>
 			<item value="Project1.CompleteSelenium"/>
 		</list>
 		<list key="groupId">
+			<item value="Bank"/>
+			<item value="Problem"/>
 			<item value="Pepperstone"/>
 			<item value="Project1"/>
 		</list>
 		<list key="artifactId">
+			<item value="CapitalTrade"/>
+			<item value="CapitalTrading"/>
+			<item value="ProblemProject"/>
 			<item value="ForexBrokerProject"/>
 			<item value="CompleteSelenium"/>
 		</list>
