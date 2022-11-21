@@ -76,3 +76,10 @@
 2022-11-21 18:39:38,083 [main] INFO Capital Trade Investment Banking Framework - Testcase execution passed
 2022-11-21 18:39:38,665 [main] INFO Capital Trade Investment Banking Framework - Browser closed
 2022-11-21 18:39:38,671 [main] INFO Capital Trade Investment Banking Framework - Framework execution finished
+2022-11-21 22:09:40,028 [main] INFO Capital Trade Investment Banking Framework - Framework execution started
+2022-11-21 22:09:49,243 [main] INFO Capital Trade Investment Banking Framework - Browser initialised
+2022-11-21 22:09:54,582 [main] INFO Capital Trade Investment Banking Framework - Opened Url, maximized browser and applied implicit wait
+2022-11-21 22:09:54,611 [main] INFO Capital Trade Investment Banking Framework - Testcase execution started
+2022-11-21 22:09:59,834 [main] INFO Capital Trade Investment Banking Framework - Testcase execution failed
+2022-11-21 22:10:01,026 [main] INFO Capital Trade Investment Banking Framework - Browser closed
+2022-11-21 22:10:01,029 [main] INFO Capital Trade Investment Banking Framework - Framework execution finished
