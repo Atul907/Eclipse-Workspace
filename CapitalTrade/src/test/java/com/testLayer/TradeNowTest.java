@@ -24,7 +24,7 @@ public class TradeNowTest extends TestBase {
 	Thread.sleep(2000);
 	
 	login.clickOnContinueButton2();
-	
+	logger.info("Credentials provided logged in succesfully");
 	}
 	
 }

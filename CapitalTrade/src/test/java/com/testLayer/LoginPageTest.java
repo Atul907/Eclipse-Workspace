@@ -24,7 +24,7 @@ public class LoginPageTest extends TestBase{
 		 Thread.sleep(2000);
 		 
 		 login.clickOnContinueButton();
-		
+		logger.info("Credentials provided logged in succesfully");
 	}
 
 }

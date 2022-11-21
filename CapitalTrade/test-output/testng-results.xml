@@ -2,24 +2,32 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-11-17T00:45:39 IST" name="Default suite" finished-at="2022-11-17T00:46:22 IST" duration-ms="42874">
+  <suite started-at="2022-11-21T18:39:08 IST" name="Suite" finished-at="2022-11-21T18:39:38 IST" duration-ms="30611">
     <groups>
     </groups>
-    <test started-at="2022-11-17T00:45:39 IST" name="Default test" finished-at="2022-11-17T00:46:22 IST" duration-ms="42874">
-      <class name="com.testLayer.TradeNowTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.testLayer.TradeNowTest@44ebcd03]" started-at="2022-11-17T00:45:39 IST" name="setUp" finished-at="2022-11-17T00:45:54 IST" duration-ms="15468" status="PASS">
+    <test started-at="2022-11-21T18:39:08 IST" name="Test" finished-at="2022-11-21T18:39:38 IST" duration-ms="30611">
+      <class name="com.testLayer.LoginPageTest">
+        <test-method is-config="true" signature="start()[pri:0, instance:com.testLayer.LoginPageTest@5c33f1a9]" started-at="2022-11-21T18:39:08 IST" name="start" finished-at="2022-11-21T18:39:08 IST" duration-ms="243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.testLayer.LoginPageTest@5c33f1a9]" started-at="2022-11-21T18:39:08 IST" name="setUp" finished-at="2022-11-21T18:39:19 IST" duration-ms="11312" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="VerifyTradeNow()[pri:0, instance:com.testLayer.TradeNowTest@44ebcd03]" started-at="2022-11-17T00:45:54 IST" name="VerifyTradeNow" finished-at="2022-11-17T00:46:22 IST" duration-ms="27325" status="PASS">
+        <test-method signature="verifyLoginTest()[pri:0, instance:com.testLayer.LoginPageTest@5c33f1a9]" started-at="2022-11-21T18:39:19 IST" name="verifyLoginTest" finished-at="2022-11-21T18:39:38 IST" duration-ms="18395" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- VerifyTradeNow -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.testLayer.TradeNowTest@44ebcd03]" started-at="2022-11-17T00:46:22 IST" name="tearDown" finished-at="2022-11-17T00:46:22 IST" duration-ms="1" status="PASS">
+        </test-method> <!-- verifyLoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.testLayer.LoginPageTest@5c33f1a9]" started-at="2022-11-21T18:39:38 IST" name="tearDown" finished-at="2022-11-21T18:39:38 IST" duration-ms="579" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- com.testLayer.TradeNowTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+        <test-method is-config="true" signature="stop()[pri:0, instance:com.testLayer.LoginPageTest@5c33f1a9]" started-at="2022-11-21T18:39:38 IST" name="stop" finished-at="2022-11-21T18:39:38 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stop -->
+      </class> <!-- com.testLayer.LoginPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>

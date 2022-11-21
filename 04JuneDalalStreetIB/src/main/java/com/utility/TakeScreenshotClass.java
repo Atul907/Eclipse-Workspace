@@ -26,7 +26,7 @@ public class TakeScreenshotClass extends TestBase {
 	}
 	
 	
-	static String path = "C:\\Users\\232338\\eclipse-workspace\\04JuneDalalStreetIB\\screenshots\\";
+	static String path = "E:\\E Drive\\Software\\Automation- (Selenium)\\Failed Screenshots";
 	
 	public static void takeScreenShot(String filename)
 	{
