@@ -2,32 +2,32 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-11-21T21:48:51 IST" name="Suite" finished-at="2022-11-21T21:49:19 IST" duration-ms="27710">
+  <suite started-at="2022-11-28T23:59:29 IST" name="Default suite" finished-at="2022-11-29T00:00:11 IST" duration-ms="41832">
     <groups>
     </groups>
-    <test started-at="2022-11-21T21:48:51 IST" name="Test" finished-at="2022-11-21T21:49:19 IST" duration-ms="27710">
-      <class name="com.testLayer.LoginPageTest">
-        <test-method is-config="true" signature="start()[pri:0, instance:com.testLayer.LoginPageTest@5c33f1a9]" started-at="2022-11-21T21:48:51 IST" name="start" finished-at="2022-11-21T21:48:52 IST" duration-ms="217" status="PASS">
+    <test started-at="2022-11-28T23:59:29 IST" name="Default test" finished-at="2022-11-29T00:00:11 IST" duration-ms="41832">
+      <class name="com.testLayer.CreateAccountTest">
+        <test-method is-config="true" signature="start()[pri:0, instance:com.testLayer.CreateAccountTest@2b662a77]" started-at="2022-11-28T23:59:29 IST" name="start" finished-at="2022-11-28T23:59:30 IST" duration-ms="226" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- start -->
-        <test-method is-config="true" signature="browserSetup()[pri:0, instance:com.testLayer.LoginPageTest@5c33f1a9]" started-at="2022-11-21T21:48:52 IST" name="browserSetup" finished-at="2022-11-21T21:49:07 IST" duration-ms="15464" status="PASS">
+        <test-method is-config="true" signature="browserSetup()[pri:0, instance:com.testLayer.CreateAccountTest@2b662a77]" started-at="2022-11-28T23:59:30 IST" name="browserSetup" finished-at="2022-11-28T23:59:44 IST" duration-ms="14206" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browserSetup -->
-        <test-method signature="verifyLoginTest()[pri:0, instance:com.testLayer.LoginPageTest@5c33f1a9]" started-at="2022-11-21T21:49:07 IST" name="verifyLoginTest" finished-at="2022-11-21T21:49:19 IST" duration-ms="11965" status="PASS">
+        <test-method signature="verifyAccount()[pri:0, instance:com.testLayer.CreateAccountTest@2b662a77]" started-at="2022-11-28T23:59:44 IST" name="verifyAccount" finished-at="2022-11-29T00:00:11 IST" duration-ms="27326" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- verifyLoginTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.testLayer.LoginPageTest@5c33f1a9]" started-at="2022-11-21T21:49:19 IST" name="tearDown" finished-at="2022-11-21T21:49:19 IST" duration-ms="1" status="PASS">
+        </test-method> <!-- verifyAccount -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.testLayer.CreateAccountTest@2b662a77]" started-at="2022-11-29T00:00:11 IST" name="tearDown" finished-at="2022-11-29T00:00:11 IST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="stop()[pri:0, instance:com.testLayer.LoginPageTest@5c33f1a9]" started-at="2022-11-21T21:49:19 IST" name="stop" finished-at="2022-11-21T21:49:19 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="stop()[pri:0, instance:com.testLayer.CreateAccountTest@2b662a77]" started-at="2022-11-29T00:00:11 IST" name="stop" finished-at="2022-11-29T00:00:11 IST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- stop -->
-      </class> <!-- com.testLayer.LoginPageTest -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+      </class> <!-- com.testLayer.CreateAccountTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

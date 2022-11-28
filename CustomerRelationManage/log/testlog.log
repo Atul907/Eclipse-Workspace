@@ -9,3 +9,41 @@
 2022-11-21 21:49:19,606 - CRM Telecom Project -INFO - Testcase execution passed
 2022-11-21 21:49:19,609 - CRM Telecom Project -INFO - Browser Closed
 2022-11-21 21:49:19,613 - CRM Telecom Project -INFO - Framework Execution stopped
+2022-11-28 23:29:36,053 - CRM Telecom Project -INFO - Browser Initialised
+2022-11-28 23:29:42,301 - CRM Telecom Project -INFO - Browser launched, Maximized, deleted cookies, applied implicit wait 
+2022-11-28 23:29:47,448 - CRM Telecom Project -INFO - Browser Closed
+2022-11-28 23:29:47,454 - CRM Telecom Project -INFO - Framework Execution stopped
+2022-11-28 23:31:03,513 - CRM Telecom Project -INFO - Browser Initialised
+2022-11-28 23:31:09,092 - CRM Telecom Project -INFO - Browser launched, Maximized, deleted cookies, applied implicit wait 
+2022-11-28 23:31:09,366 - CRM Telecom Project -INFO - Testcase execution started
+2022-11-28 23:31:34,909 - CRM Telecom Project -INFO - Testcase execution passed
+2022-11-28 23:31:34,910 - CRM Telecom Project -INFO - Browser Closed
+2022-11-28 23:31:34,921 - CRM Telecom Project -INFO - Framework Execution stopped
+2022-11-28 23:31:41,850 - CRM Telecom Project -INFO - Browser Initialised
+2022-11-28 23:31:48,346 - CRM Telecom Project -INFO - Browser launched, Maximized, deleted cookies, applied implicit wait 
+2022-11-28 23:31:48,350 - CRM Telecom Project -INFO - Testcase execution started
+2022-11-28 23:31:53,451 - CRM Telecom Project -INFO - Testcase execution failed
+2022-11-28 23:31:53,757 - CRM Telecom Project -INFO - Browser Closed
+2022-11-28 23:31:53,758 - CRM Telecom Project -INFO - Framework Execution stopped
+2022-11-28 23:38:13,114 - CRM Telecom Project -INFO - Browser Initialised
+2022-11-28 23:38:27,369 - CRM Telecom Project -INFO - Browser launched, Maximized, deleted cookies, applied implicit wait 
+2022-11-28 23:38:39,486 - CRM Telecom Project -INFO - Browser Closed
+2022-11-28 23:38:39,493 - CRM Telecom Project -INFO - Framework Execution stopped
+2022-11-28 23:40:41,672 - CRM Telecom Project -INFO - Browser Initialised
+2022-11-28 23:40:46,826 - CRM Telecom Project -INFO - Browser launched, Maximized, deleted cookies, applied implicit wait 
+2022-11-28 23:41:00,338 - CRM Telecom Project -INFO - Browser Closed
+2022-11-28 23:41:00,344 - CRM Telecom Project -INFO - Framework Execution stopped
+2022-11-28 23:49:52,285 - CRM Telecom Project -INFO - Browser Initialised
+2022-11-28 23:49:57,617 - CRM Telecom Project -INFO - Browser launched, Maximized, deleted cookies, applied implicit wait 
+2022-11-28 23:50:13,052 - CRM Telecom Project -INFO - clicked on create new account
+2022-11-28 23:50:20,658 - CRM Telecom Project -INFO - enterd name and email
+2022-11-28 23:50:21,206 - CRM Telecom Project -INFO - enterd address
+2022-11-28 23:50:23,289 - CRM Telecom Project -INFO - Browser Closed
+2022-11-28 23:50:23,297 - CRM Telecom Project -INFO - Framework Execution stopped
+2022-11-28 23:59:37,737 - CRM Telecom Project -INFO - Browser Initialised
+2022-11-28 23:59:44,285 - CRM Telecom Project -INFO - Browser launched, Maximized, deleted cookies, applied implicit wait 
+2022-11-28 23:59:59,357 - CRM Telecom Project -INFO - clicked on create new account
+2022-11-29 00:00:06,706 - CRM Telecom Project -INFO - enterd name and email
+2022-11-29 00:00:07,292 - CRM Telecom Project -INFO - enterd address
+2022-11-29 00:00:11,621 - CRM Telecom Project -INFO - Browser Closed
+2022-11-29 00:00:11,625 - CRM Telecom Project -INFO - Framework Execution stopped

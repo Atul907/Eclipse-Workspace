@@ -10,7 +10,8 @@ public class HomePage extends TestBase{
 
 // 1- driver initialization using constructor
 	
-	public HomePage () {
+	public HomePage () 
+	{
 		PageFactory.initElements(driver, this);
 	}
 
@@ -54,5 +55,64 @@ public class HomePage extends TestBase{
 	
 // action methods
 	
+	public void clickOnAccounts () 
+	{
+		accounts_tab.click();
+	}
+	
+	public void clickOnContacts () 
+	{
+		contacts_tab.click();
+	}
+	
+	public void clickOnOppurtunities () 
+	{
+		oppurtunities_tab.click();
+	}
+	
+	public void clickOnLeads () 
+	{
+		leads_tab.click();
+	}
+	
+	public void clickOnQuotes () 
+	{
+		quotes_tab.click();
+	}
+	
+	public void clickOnCalender () 
+	{
+		calender_tab.click();
+	}
+	
+	public void clickOnMore () 
+	{
+		more_tab.click();
+	}
+
+	public void clickOnProfiles () 
+	{
+		profiles_tab.click();
+	}
+
+	public void clickOnSearch () 
+	{
+		search_tab.click();
+	}
+
+	public void clickOnNew () 
+	{
+		new_tab.click();
+	}
+
+	public void clickOnSuiteCRMDashboard () 
+	{
+		suiteCRM_Dashboard_tab.click();
+	}
+
+	public void clickOnActions () 
+	{
+		actions_tab.click();
+	}
 	
 }
