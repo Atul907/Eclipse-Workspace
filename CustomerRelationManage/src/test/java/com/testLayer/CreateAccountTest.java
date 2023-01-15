@@ -1,8 +1,9 @@
 package com.testLayer;
 
 import java.io.IOException;
+import java.time.Duration;
 
-import org.openqa.selenium.JavascriptExecutor;
+//import org.openqa.selenium.JavascriptExecutor;
 import org.testng.annotations.Test;
 
 import com.pageLayer.CreateAccount;
@@ -20,7 +21,7 @@ public class CreateAccountTest extends TestBase{
 		Thread.sleep(3000);
 		
 		CreateAccount account = new CreateAccount ();
-		
+		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 		account.clickOnAccounts();
 		account.clickOnCreateAccounts();
 		Thread.sleep(2000);
@@ -40,8 +41,8 @@ public class CreateAccountTest extends TestBase{
 		
 		// creating JavascriptExecutor interface object by Type casting for scrolling purpose
 		
-		JavascriptExecutor js = ((JavascriptExecutor)driver);
-		js.executeScript("scrollBy(0,-500)");
+//		JavascriptExecutor js = ((JavascriptExecutor)driver);
+//		js.executeScript("scrollBy(0,-500)");
 		
 		Thread.sleep(2000);
 		account.saveDetails();

@@ -57,9 +57,9 @@ function toggleAllBoxes() {
 <tr>
 <td>Tests passed/Failed/Skipped:</td><td>1/1/0</td>
 </tr><tr>
-<td>Started on:</td><td>Mon Nov 28 23:30:54 IST 2022</td>
+<td>Started on:</td><td>Tue Nov 29 15:14:17 IST 2022</td>
 </tr>
-<tr><td>Total time:</td><td>58 seconds (58897 ms)</td>
+<tr><td>Total time:</td><td>43 seconds (43837 ms)</td>
 </tr><tr>
 <td>Included groups:</td><td></td>
 </tr><tr>
@@ -76,14 +76,14 @@ function toggleAllBoxes() {
 </tr>
 <tr>
 <td title='com.testLayer.CreateAccountTest.verifyAccount()'><b>verifyAccount</b><br>Test class: com.testLayer.CreateAccountTest</td>
-<td><div><pre>org.openqa.selenium.NoSuchElementException: Unable to locate element: (//a[@class=&apos;top-nav-link nav-link-nongrouped dropdown-toggle ng-star-inserted&apos;])[1]
+<td><div><pre>org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@name=&apos;username&apos;]
 For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
 Build info: version: &apos;4.5.0&apos;, revision: &apos;fe167b119a&apos;
 System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.3.1&apos;
 Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Command: [c18b00e0-5068-4311-9bbb-91d9bfa267c4, findElement {using=xpath, value=(//a[@class=&apos;top-nav-link nav-link-nongrouped dropdown-toggle ng-star-inserted&apos;])[1]}]
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 107.0, moz:accessibilityChecks: false, moz:buildID: 20221110173214, moz:debuggerAddress: 127.0.0.1:56263, moz:geckodriverVersion: 0.32.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 22404, moz:profile: C:\Users\Atul\AppData\Local..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://127.0.0.1:56263/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: c18b00e0-5068-4311-9bbb-91d9bfa267c4
+Command: [7dff7cc2-0e8c-4af8-9cba-f23a0e285f5c, findElement {using=xpath, value=//input[@name=&apos;username&apos;]}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 107.0, moz:accessibilityChecks: false, moz:buildID: 20221110173214, moz:debuggerAddress: 127.0.0.1:55822, moz:geckodriverVersion: 0.32.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 18500, moz:profile: C:\Users\Atul\AppData\Local..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://127.0.0.1:55822/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 7dff7cc2-0e8c-4af8-9cba-f23a0e285f5c
 	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
 	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
 	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
@@ -97,19 +97,20 @@ Session ID: c18b00e0-5068-4311-9bbb-91d9bfa267c4
 	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:357)
 	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
 	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
-	at jdk.proxy2/jdk.proxy2.$Proxy19.click(Unknown Source)
-	at com.pageLayer.CreateAccount.clickOnAccounts(CreateAccount.java:53)
-	at com.testLayer.CreateAccountTest.verifyAccount(CreateAccountTest.java:15)
+	at jdk.proxy2/jdk.proxy2.$Proxy19.sendKeys(Unknown Source)
+	at com.pageLayer.LoginPage.enterUsername(LoginPage.java:34)
+	at com.testLayer.LoginPageTest.verifyLoginTest(LoginPageTest.java:17)
+	at com.testLayer.CreateAccountTest.verifyAccount(CreateAccountTest.java:18)
 	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-... Removed 32 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace59103257", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace59103257'><pre>org.openqa.selenium.NoSuchElementException: Unable to locate element: (//a[@class=&apos;top-nav-link nav-link-nongrouped dropdown-toggle ng-star-inserted&apos;])[1]
+... Removed 32 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1333520072", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1333520072'><pre>org.openqa.selenium.NoSuchElementException: Unable to locate element: //input[@name=&apos;username&apos;]
 For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
 Build info: version: &apos;4.5.0&apos;, revision: &apos;fe167b119a&apos;
 System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.3.1&apos;
 Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Command: [c18b00e0-5068-4311-9bbb-91d9bfa267c4, findElement {using=xpath, value=(//a[@class=&apos;top-nav-link nav-link-nongrouped dropdown-toggle ng-star-inserted&apos;])[1]}]
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 107.0, moz:accessibilityChecks: false, moz:buildID: 20221110173214, moz:debuggerAddress: 127.0.0.1:56263, moz:geckodriverVersion: 0.32.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 22404, moz:profile: C:\Users\Atul\AppData\Local..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://127.0.0.1:56263/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: c18b00e0-5068-4311-9bbb-91d9bfa267c4
+Command: [7dff7cc2-0e8c-4af8-9cba-f23a0e285f5c, findElement {using=xpath, value=//input[@name=&apos;username&apos;]}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 107.0, moz:accessibilityChecks: false, moz:buildID: 20221110173214, moz:debuggerAddress: 127.0.0.1:55822, moz:geckodriverVersion: 0.32.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 18500, moz:profile: C:\Users\Atul\AppData\Local..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://127.0.0.1:55822/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 7dff7cc2-0e8c-4af8-9cba-f23a0e285f5c
 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
 	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
@@ -128,9 +129,10 @@ Session ID: c18b00e0-5068-4311-9bbb-91d9bfa267c4
 	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:357)
 	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
 	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
-	at jdk.proxy2/jdk.proxy2.$Proxy19.click(Unknown Source)
-	at com.pageLayer.CreateAccount.clickOnAccounts(CreateAccount.java:53)
-	at com.testLayer.CreateAccountTest.verifyAccount(CreateAccountTest.java:15)
+	at jdk.proxy2/jdk.proxy2.$Proxy19.sendKeys(Unknown Source)
+	at com.pageLayer.LoginPage.enterUsername(LoginPage.java:34)
+	at com.testLayer.LoginPageTest.verifyLoginTest(LoginPageTest.java:17)
+	at com.testLayer.CreateAccountTest.verifyAccount(CreateAccountTest.java:18)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -161,7 +163,7 @@ Session ID: c18b00e0-5068-4311-9bbb-91d9bfa267c4
 	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
 </pre></div></td>
 <td>5</td>
-<td>com.testLayer.CreateAccountTest@1b7cc17c</td></tr>
+<td>com.testLayer.CreateAccountTest@6069db50</td></tr>
 </table><p>
 <table width='100%' border='1' class='invocation-passed'>
 <tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
@@ -173,8 +175,8 @@ Session ID: c18b00e0-5068-4311-9bbb-91d9bfa267c4
 <tr>
 <td title='com.testLayer.LoginPageTest.verifyLoginTest()'><b>verifyLoginTest</b><br>Test class: com.testLayer.LoginPageTest</td>
 <td></td>
-<td>25</td>
-<td>com.testLayer.LoginPageTest@c8c12ac</td></tr>
+<td>10</td>
+<td>com.testLayer.LoginPageTest@5c33f1a9</td></tr>
 </table><p>
 </body>
 </html>

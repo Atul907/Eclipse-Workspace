@@ -23,7 +23,7 @@ public class TestBase {
 // variable declaration	
 	public static WebDriver driver;
 	public static Logger logger;
-	String browser = "Firefox";
+	String browser = "Chrome";
 	
 //Logger setup configuration	
 	@BeforeClass

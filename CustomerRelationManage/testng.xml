@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="Suite">
- <listeners>
-  			<listener class-name="com.utility.ListenerSetup" />
-  			<listener class-name="com.utility.ExtentReporterNG" />
+<suite name="RegressionSuite">
+
+  <listeners>
+  			<listener class-name="com.utility.ListenerSetup"> </listener>
+  			
   </listeners>
-  <test thread-count="5" name="Test">
+
+  <test thread-count="5" name="CRMTest">
     <classes>
-      <class name="com.testLayer.LoginPageTest"/>
       <class name="com.testLayer.CreateAccountTest"/>
-    </classes>
-  </test> <!-- Test -->
-</suite> <!-- Suite -->
+    </classes>   
+  </test> <!-- CRMTest -->
+</suite> <!-- RegressionSuite -->
