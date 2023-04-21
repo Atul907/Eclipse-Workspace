@@ -8,11 +8,11 @@ public class TableOfNumber {
 		// print the table of number input by user
 
 			Scanner sc = new Scanner (System.in); 
-			System.out.println("Enter The Number For Table :");
+			System.out.println("Enter The Number To Print Multiplication : " );
 			int n= sc.nextInt();
 			int sum ;
 		
-			 for (int i=1; i<=10; i++) {			
+			 for (int i=2; i<=10; i++) {			
 				  
 				 sum= i*n;
 				 System.out.println(sum);

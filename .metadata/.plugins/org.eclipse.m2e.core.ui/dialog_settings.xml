@@ -29,6 +29,7 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="TeamViewerDemo.TeamViewerDemo"/>
 			<item value="Telecom.CustomerRelationManage"/>
 			<item value="Bank.CapitalTrade"/>
 			<item value="Bank.CapitalTrading"/>
@@ -37,6 +38,7 @@
 			<item value="Project1.CompleteSelenium"/>
 		</list>
 		<list key="groupId">
+			<item value="TeamViewerDemo"/>
 			<item value="Telecom"/>
 			<item value="Bank"/>
 			<item value="Problem"/>
@@ -44,6 +46,7 @@
 			<item value="Project1"/>
 		</list>
 		<list key="artifactId">
+			<item value="TeamViewerDemo"/>
 			<item value="Customerelationmanage"/>
 			<item value="CapitalTrade"/>
 			<item value="CapitalTrading"/>

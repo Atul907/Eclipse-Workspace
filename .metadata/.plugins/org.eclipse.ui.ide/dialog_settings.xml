@@ -6,6 +6,7 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\D Drive\Eclipse Workspace\Cucumber_Demo"/>
 			<item value="E:\E Drive\Local\JuneDalalStreetIB"/>
 			<item value="E:\E Drive\Git"/>
 			<item value="D:\D Drive\Eclipse Workspace"/>
