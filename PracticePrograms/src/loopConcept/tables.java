@@ -1,6 +1,7 @@
+package loopConcept;
 
     import java.util.Scanner;
-    public class TableOfNumber {
+    public class tables {
         public static void main(String args[]){
         int number, i, table;
         Scanner sc = new Scanner(System.in);
@@ -10,6 +11,8 @@
         for(i=1; i<=10; i++){
             table = number*i;
             System.out.println(number+" * "+i+" = "+table);
+            sc.close();
         }
-    }
+    
+        }
 }
