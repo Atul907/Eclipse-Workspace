@@ -1,4 +1,4 @@
-package nonPrimitive;
+package datatypes;
 
 public class AllClassAsDatatype {
 

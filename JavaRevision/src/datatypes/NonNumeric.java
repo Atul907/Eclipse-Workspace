@@ -1,4 +1,4 @@
-package primitiveDatatypes;
+package datatypes;
 
 public class NonNumeric {
 
