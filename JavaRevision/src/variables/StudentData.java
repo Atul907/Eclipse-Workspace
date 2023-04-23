@@ -21,19 +21,26 @@ public class StudentData {
 		student1.marks = 75.57;
 		
 		StudentData student2 = new StudentData();
-		student2.name = "A1";
-		student2.age = 18;
-		student2.marks = 75.57;
+		student2.name = "B1";
+		student2.age = 19;
+		student2.marks = 71.57;
 		
 		StudentData student3 = new StudentData();
-		student3.name = "A1";
-		student3.age = 18;
-		student3.marks = 75.57;
+		student3.name = "C1";
+		student3.age = 20;
+		student3.marks = 68.07;
 		
 		StudentData student4 = new StudentData();
-		student4.name = "A1";
-		student4.age = 18;
-		student4.marks = 75.57;
+		student4.name = "D1";
+		student4.age = 21;
+		student4.marks = 85.57;
+		
+		System.out.println(collegeName);
+		System.out.println(city);
+		System.out.println(student1.name);
+		System.out.println(student1.age);
+		System.out.println(student1.marks);
+		
 		
 	}
 	
