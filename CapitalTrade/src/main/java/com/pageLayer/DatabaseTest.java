@@ -31,7 +31,7 @@ public static void main(String[] args) throws SQLException    {
 	// data validation	
 		
 		boolean status = false;
-		
+		System.out.println(status);
 		while(rs.next()) 
 		{
 			String id = rs.getString("Id");
