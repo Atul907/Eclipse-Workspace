@@ -42,6 +42,7 @@
 		<item key="pageIndex" value="2"/>
 	</section>
 	<section name="RenameInformationPopup">
+		<item key="snap_position" value="2"/>
 	</section>
 	<section name="NewAnnotationWizardPage">
 		<item key="add_documented" value="false"/>
