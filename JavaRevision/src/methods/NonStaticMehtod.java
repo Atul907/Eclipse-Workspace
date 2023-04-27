@@ -2,7 +2,7 @@ package methods;
 
 public class NonStaticMehtod {
 
-	//	access_modifier returntype nameofmethod();
+	//	access_modifier return_type name_of_method();
 	public void m3 () {
 		
 		System.out.println("non static method");
