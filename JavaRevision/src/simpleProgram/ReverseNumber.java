@@ -7,15 +7,20 @@ public class ReverseNumber {
 	
 	public static void main(String[] args) {
 		
-		int num = 12345;
-		int reverse = 0;
 		
-	  while (num>0){
-		 
-		  reverse = reverse*10 + num%10;
+	  		int number = 24568;
+	  		int remainder ;
+	  		
+	  		while (number!=0) {
+	  			
+	  		remainder = number % 10;
+	  		
+	  		System.out.print(remainder);
+	  		
+	  		number = number / 10;
+	  		
+	  		}
+	  	  
 	
-		  num = num / 10;	 
-	  }
-	  	  System.out.println(reverse);
 	}
 }
