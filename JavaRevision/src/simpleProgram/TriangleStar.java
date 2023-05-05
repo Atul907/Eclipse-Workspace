@@ -5,21 +5,21 @@ public class TriangleStar {
 	public static void main(String[] args) {
 		
 		// write a program for
-						//		*
-						//		**
-						//		***
-						//		****
-						//		*****
+							//		*
+							//		**
+							//		***
+							//		****
+							//		*****
 		
-		int r,c;
+		int row,column;
 		
-		for (r=1;r<=5;r++) {				// for row
+		for (row=1;row<=5;row++) {				    // for row
 			
-			for (c=1;c<=r;c++) {			// for column
+			for (column=1;column<=row;column++) {	// for column
 	
-				System.out.print("* ");		// to print star
+				System.out.print("* ");		        // to print star
 			}
-			System.out.println();			// to start printing in next line
+			System.out.println();			        // to start printing in next line
 		}
 		
 		
