@@ -16,9 +16,9 @@ public class TriangleLogic2 {
 			
 			for (row=5; row<=5; row--) {
 				
-				for (col=1;col<=5;col++) {
+				for (col=1;col<row;col++) {
 					
-					if(col>=1 && col<=row)
+					//if(col>=5 && col<=row)
 						
 						System.out.print("*");
 				}
