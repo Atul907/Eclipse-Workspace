@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
-    <fullyQualifiedTypeName name="java.util.Date"/>
     <fullyQualifiedTypeName name="org.openqa.selenium.TakesScreenshot"/>
     <fullyQualifiedTypeName name="org.openqa.selenium.OutputType"/>
     <fullyQualifiedTypeName name="org.testng.annotations.Listeners"/>
@@ -60,4 +58,6 @@
     <fullyQualifiedTypeName name="com.pageLayer.LoginPage"/>
     <fullyQualifiedTypeName name="com.Base.BaseTest"/>
     <fullyQualifiedTypeName name="org.testng.annotations.Test"/>
+    <fullyQualifiedTypeName name="assignments.Fourth"/>
+    <fullyQualifiedTypeName name="memoryManagement.SavedVariables"/>
 </qualifiedTypeNameHistroy>
